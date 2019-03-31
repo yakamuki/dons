@@ -1,0 +1,15 @@
+#wp-admin-bar-crane-theme-options .admin-bar-crane-icon::before {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  content: "";
+  background-image: url(../images/wp/crane.svg) !important;
+  background-repeat: no-repeat;
+  background-position: 50% 50%; }
+
+#wp-admin-bar-crane_shop_edit .admin-bar-edit-icon::before {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  content: "\f464";
+  top: 2px; }

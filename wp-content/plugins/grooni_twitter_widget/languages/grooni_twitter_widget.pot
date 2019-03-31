@@ -1,0 +1,136 @@
+# Copyright (C) 2016 Grooni.com
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grooni twitter widget 1.0.4\n"
+"POT-Creation-Date: 2016-11-30 17:51+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Dmitry-Ch <chapliuk@dmitry.by>\n"
+"Language-Team: Grooni <info@grooni.com>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/gr_twitter_widget.class.php:22
+msgid "Grooni Twitter Feeds widget"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:25
+msgid "It shows the last tweets of user from the Twitter"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:41
+msgid "Latest Tweets"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:80
+msgid "cURL lib is not installed!"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:144
+#: include/gr_twitter_widget.class.php:182
+msgid "Bad Authentication data.<br/>Please enter valid API Keys."
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:260
+msgid "Follow"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:260
+msgid "on Twitter [Opens new window]"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:262
+msgid "ago"
+msgstr ""
+
+#: include/gr_twitter_widget.class.php:271
+msgid "Waiting for twitter.com... Try reloading the page again"
+msgstr ""
+
+#: include/template/widget_config.php:7
+msgid "Widget Title: "
+msgstr ""
+
+#: include/template/widget_config.php:13
+msgid "Twitter User Name: "
+msgstr ""
+
+#: include/template/widget_config.php:17
+msgid "Start entering your user name: "
+msgstr ""
+
+#: include/template/widget_config.php:21
+msgid "Tweets Cache Time (in minutes): "
+msgstr ""
+
+#: include/template/widget_config.php:28
+msgid "Number of Tweets to show: "
+msgstr ""
+
+#: include/template/widget_config.php:39
+msgid "Show User Avatar"
+msgstr ""
+
+#: include/template/widget_config.php:47
+msgid "Exclude @replies"
+msgstr ""
+
+#: include/template/widget_config.php:51
+msgid "Twitter API Settings"
+msgstr ""
+
+#: include/template/widget_config.php:55
+msgid "API key: "
+msgstr ""
+
+#: include/template/widget_config.php:62
+msgid "API secret: "
+msgstr ""
+
+#: include/template/widget_config.php:70
+msgid "Access Token: "
+msgstr ""
+
+#: include/template/widget_config.php:79
+msgid "Access Token Secret: "
+msgstr ""
+
+#: twitter_valid_user.php:21
+msgid "Invalid user name"
+msgstr ""
+
+#: twitter_valid_user.php:27
+msgid "Valid user name"
+msgstr ""
+
+#: update_checker/github-checker.php:119
+msgid "There is no changelog available."
+msgstr ""
+
+#: update_checker/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr ""
+
+#: update_checker/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr ""
+
+#: update_checker/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: update_checker/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""

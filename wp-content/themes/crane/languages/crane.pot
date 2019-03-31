@@ -1,0 +1,3574 @@
+# Copyright (C) 2017 Grooni.com
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Crane theme 1.4.6\n"
+"POT-Creation-Date: 2019-03-15 16:32+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Dmitry-Ch <chapliuk@dmitry.by>\n"
+"Language-Team: Grooni <info@grooni.com>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:22 admin/crane-options.php:3157
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: 404.php:23 admin/crane-options.php:3167
+msgid ""
+"Unfortunately, the page was not found. It was deleted or moved and is now at "
+"another address."
+msgstr ""
+
+#: 404.php:41
+msgid "Search Query ..."
+msgstr ""
+
+#: admin/class-Crane_Addons.php:26 admin/class-Crane_Addons.php:27
+msgctxt "crane addons"
+msgid "Addons"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:72 admin/class-Crane_Dashboard.php:281
+#: admin/class-Crane_Theme_Activation.php:98 admin/importer/importer.php:258
+#: admin/redux-templates/header.tpl.php:43
+msgid "child version"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:100
+msgid "Crane Addons"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:104
+msgid "Premium plugins"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:105
+msgid "available for free with the Crane Theme"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:131
+msgid "Free plugins"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:132
+msgid "compatible with the Crane Theme"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:220
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2910
+msgid "Install"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:226
+msgid "Conflicting plugin"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:233
+msgid "Activated"
+msgstr ""
+
+#: admin/class-Crane_Addons.php:242
+#, php-format
+msgid "This plugin conflicts with %s. Please use only one of them."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:159 admin/class-Crane_Dashboard.php:184
+msgid "Grooni Theme Addons"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:159 admin/class-Crane_Dashboard.php:184
+#: admin/class-Crane_Dashboard.php:204
+msgid "plugin"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:164
+msgid ""
+"You need to install and activate the Grooni Theme Addons plugin for installing "
+"plugins and Crane theme demo data."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:165 admin/redux-templates/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:168
+msgid "Install Grooni Theme Addons Plugin"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:170 admin/class-Crane_Dashboard.php:191
+#: admin/class-Crane_Dashboard.php:209 admin/tgm/tgm-init.php:115
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:410
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:184 admin/class-Crane_Dashboard.php:204
+#, php-format
+msgid "You need to update %s. There are major improvements related to Crane settings."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:189
+msgid "Update Grooni Theme Addons Plugin"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:204
+msgid "Groovy Menu"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:220 admin/class-Crane_Dashboard.php:221
+msgid "Crane theme"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:233 admin/class-Crane_Dashboard.php:234
+msgctxt "crane dashboard"
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:297 admin/class-Crane_Dashboard.php:334
+msgid "Knowledge Base"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:299
+msgid "Search"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:304
+msgid "Welcome to Crane Theme"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:306
+msgid ""
+"Get ready to become acquainted with Crane - versatile and highly functional "
+"WordPress theme which is perfect for corporate and creative projects "
+"implementation! Crane contains everything you need to launch your website in the "
+"course of the coming next several days or even within several hours!"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:314
+msgid "Import Demo Content"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:315
+msgid ""
+"Having installed the theme at the first time, you can import the demo-content. It "
+"is the great way to start creating your website."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:317
+msgid "Import Content"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:324 admin/class-Crane_Dashboard.php:327
+#: admin/crane-options.php:46 admin/crane-options.php:47
+msgid "Theme Options"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:325
+msgid ""
+"Here you can find the essential global settings of your website which allow to "
+"customize its appearance, layout as well as to choose the preferable typography and "
+"general colors and apply the essential settings for your blog or online-shop."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:335
+msgid ""
+"We have worked out the expanded and well-structured documentation concerning "
+"working with Crane. The database has been elaborated as the separate website; quick "
+"search on dashboard pane is also available."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:337
+msgid "Go to Knowledge Base"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:346
+msgid "Menu Options"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:347
+msgid ""
+"We are happy to propose our helpful plugin included into the Crane package which "
+"helps to operate the menu in the more flexible manner. A plenty of presets with pre-"
+"made menu layouts worked out by our team are attainable for smooth operating the "
+"menu."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:349
+msgid "Go to Menu Options"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:357 admin/class-Crane_Dashboard.php:360
+msgid "Get a Support"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:358
+msgid ""
+"In case any problems emerge while working with our product, you are always capable "
+"to register on our portal and create the ticket. We will certainly provide you with "
+"all the necessary assistance."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:368
+msgid "Theme Changelog"
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:369
+msgid ""
+"Theme Changelog page always helps you to keep track of current updates we would "
+"like to propose you in the latest versions of the website. You will also be aware "
+"of all the ways of how our products are being developed."
+msgstr ""
+
+#: admin/class-Crane_Dashboard.php:371
+msgid "See changelog"
+msgstr ""
+
+#: admin/class-Crane_Theme_Activation.php:82 admin/class-Crane_Theme_Activation.php:83
+msgid "Activate theme"
+msgstr ""
+
+#: admin/class-Crane_Theme_Activation.php:121
+msgid "Please enter your purchase code"
+msgstr ""
+
+#: admin/class-Crane_Theme_Activation.php:127
+msgid "How to get my"
+msgstr ""
+
+#: admin/class-Crane_Theme_Activation.php:128
+msgid "purchase key"
+msgstr ""
+
+#: admin/class-Crane_Theme_Activation.php:212
+msgid "Basic Footer"
+msgstr ""
+
+#: admin/crane-options.php:177
+msgid "Inherit from Default footer"
+msgstr ""
+
+#: admin/crane-options.php:178 inc/meta/config.php:14
+msgid "No footer"
+msgstr ""
+
+#: admin/crane-options.php:187
+msgid "General settings"
+msgstr ""
+
+#: admin/crane-options.php:194
+msgid ""
+"Logo configuration can be found in section \"<a href=\"?page=groovy_menu_settings"
+"\">Groovy menu</a>\""
+msgstr ""
+
+#: admin/crane-options.php:199
+msgid "Site icon"
+msgstr ""
+
+#: admin/crane-options.php:205
+msgid "Wide layout"
+msgstr ""
+
+#: admin/crane-options.php:207
+msgid ""
+"If set to 'on' (wide), container will be 100% width of browser window. If set to "
+"off (boxed), container will have max-width set in setting above"
+msgstr ""
+
+#: admin/crane-options.php:213
+msgid "Right/left padding"
+msgstr ""
+
+#: admin/crane-options.php:235
+msgid "Content width"
+msgstr ""
+
+#: admin/crane-options.php:237
+msgid "This option defines the content max-width between 600px and 2000px"
+msgstr ""
+
+#: admin/crane-options.php:248
+msgid "Scroll to top button"
+msgstr ""
+
+#: admin/crane-options.php:254
+msgid "Show placeholders if featured image doesn't set"
+msgstr ""
+
+#: admin/crane-options.php:256
+msgid ""
+"Show placeholders if featured image doesn't set in following places: blog type "
+"masonry and cell, portfolio all layout types, Grooni recent posts widget"
+msgstr ""
+
+#: admin/crane-options.php:263
+msgid "Preloader"
+msgstr ""
+
+#: admin/crane-options.php:269
+msgid "Preloader type"
+msgstr ""
+
+#: admin/crane-options.php:271
+msgid "ball pulse"
+msgstr ""
+
+#: admin/crane-options.php:272
+msgid "ball grid pulse"
+msgstr ""
+
+#: admin/crane-options.php:273
+msgid "ball clip rotate"
+msgstr ""
+
+#: admin/crane-options.php:274
+msgid "ball clip rotate pulse"
+msgstr ""
+
+#: admin/crane-options.php:275
+msgid "square spin"
+msgstr ""
+
+#: admin/crane-options.php:276
+msgid "ball clip rotate multiple"
+msgstr ""
+
+#: admin/crane-options.php:277
+msgid "ball pulse rise"
+msgstr ""
+
+#: admin/crane-options.php:278
+msgid "ball rotate"
+msgstr ""
+
+#: admin/crane-options.php:279
+msgid "ball zig-zag"
+msgstr ""
+
+#: admin/crane-options.php:280
+msgid "ball triangle path"
+msgstr ""
+
+#: admin/crane-options.php:281
+msgid "ball scale"
+msgstr ""
+
+#: admin/crane-options.php:282
+msgid "line scale"
+msgstr ""
+
+#: admin/crane-options.php:283
+msgid "ball scale multiple"
+msgstr ""
+
+#: admin/crane-options.php:284
+msgid "ball pulse sync"
+msgstr ""
+
+#: admin/crane-options.php:285
+msgid "ball scale ripple"
+msgstr ""
+
+#: admin/crane-options.php:286
+msgid "ball scale ripple multiple"
+msgstr ""
+
+#: admin/crane-options.php:287
+msgid "ball spin fade loader"
+msgstr ""
+
+#: admin/crane-options.php:288
+msgid "line spin fade loader"
+msgstr ""
+
+#: admin/crane-options.php:289
+msgid "pacman"
+msgstr ""
+
+#: admin/crane-options.php:298
+msgid "Preloader color"
+msgstr ""
+
+#: admin/crane-options.php:307
+msgid "Preloader background color"
+msgstr ""
+
+#: admin/crane-options.php:315
+msgid "Lazy Load"
+msgstr ""
+
+#: admin/crane-options.php:325
+msgid "Menu"
+msgstr ""
+
+#: admin/crane-options.php:332
+msgid "Show image logo at header?"
+msgstr ""
+
+#: admin/crane-options.php:338
+msgid "Image logo"
+msgstr ""
+
+#: admin/crane-options.php:345
+msgid "Text logo"
+msgstr ""
+
+#: admin/crane-options.php:346
+msgid "If left blank site title will be shown"
+msgstr ""
+
+#: admin/crane-options.php:356
+msgid "Page title and breadcrumbs"
+msgstr ""
+
+#: admin/crane-options.php:362
+msgid "Page title settings"
+msgstr ""
+
+#: admin/crane-options.php:369
+msgid "Minimum height of title container"
+msgstr ""
+
+#: admin/crane-options.php:371
+msgid ""
+"If content within page title will take more than minimum height container will "
+"expand it's height"
+msgstr ""
+
+#: admin/crane-options.php:385 admin/crane-options.php:452 admin/crane-options.php:607
+msgid "Typography"
+msgstr ""
+
+#: admin/crane-options.php:406
+msgid "Background"
+msgstr ""
+
+#: admin/crane-options.php:416
+msgid "Show decorators"
+msgstr ""
+
+#: admin/crane-options.php:423
+msgid "Bottom Border Option"
+msgstr ""
+
+#: admin/crane-options.php:439
+msgid "Breadcrumbs settings"
+msgstr ""
+
+#: admin/crane-options.php:446
+msgid "Text following breadcrumbs"
+msgstr ""
+
+#: admin/crane-options.php:473
+msgid "Delimiter color"
+msgstr ""
+
+#: admin/crane-options.php:475
+msgid "Backslash color between breadcrumbs"
+msgstr ""
+
+#: admin/crane-options.php:485 inc/meta/config.php:23
+msgid "Page title and breadcrumbs appearance"
+msgstr ""
+
+#: admin/crane-options.php:492 admin/crane-options.php:1013
+msgid "Regular pages"
+msgstr ""
+
+#: admin/crane-options.php:494 admin/crane-options.php:512 admin/crane-options.php:527
+#: admin/crane-options.php:545 admin/crane-options.php:560 admin/crane-options.php:578
+#: admin/crane-options.php:593 inc/meta/config.php:25
+msgid "None"
+msgstr ""
+
+#: admin/crane-options.php:495 admin/crane-options.php:513 admin/crane-options.php:528
+#: admin/crane-options.php:546 admin/crane-options.php:561 admin/crane-options.php:579
+#: admin/crane-options.php:594 inc/meta/config.php:26
+msgid "Title only"
+msgstr ""
+
+#: admin/crane-options.php:496 admin/crane-options.php:514 admin/crane-options.php:529
+#: admin/crane-options.php:547 admin/crane-options.php:562 admin/crane-options.php:580
+#: admin/crane-options.php:595 inc/meta/config.php:27
+msgid "Breadcrumbs only"
+msgstr ""
+
+#: admin/crane-options.php:497 admin/crane-options.php:515 admin/crane-options.php:530
+#: admin/crane-options.php:548 admin/crane-options.php:563 admin/crane-options.php:581
+#: admin/crane-options.php:596 inc/meta/config.php:28
+msgid "Breadcrums before title"
+msgstr ""
+
+#: admin/crane-options.php:498 admin/crane-options.php:516 admin/crane-options.php:531
+#: admin/crane-options.php:549 admin/crane-options.php:564 admin/crane-options.php:582
+#: admin/crane-options.php:597 inc/meta/config.php:29
+msgid "Breadcrums within title"
+msgstr ""
+
+#: admin/crane-options.php:499 admin/crane-options.php:517 admin/crane-options.php:532
+#: admin/crane-options.php:550 admin/crane-options.php:565 admin/crane-options.php:583
+#: admin/crane-options.php:598 inc/meta/config.php:30
+msgid "Breadcrums after title"
+msgstr ""
+
+#: admin/crane-options.php:510
+msgid "Portfolio archive pages"
+msgstr ""
+
+#: admin/crane-options.php:524
+msgid "Portfolio single pages"
+msgstr ""
+
+#: admin/crane-options.php:526
+msgid "Inherit from portfolio archive"
+msgstr ""
+
+#: admin/crane-options.php:543
+msgid "Blog archive pages"
+msgstr ""
+
+#: admin/crane-options.php:557
+msgid "Blog single pages"
+msgstr ""
+
+#: admin/crane-options.php:559
+msgid "Inherit from blog archive"
+msgstr ""
+
+#: admin/crane-options.php:576
+msgid "Shop archive pages"
+msgstr ""
+
+#: admin/crane-options.php:590
+msgid "Shop single pages"
+msgstr ""
+
+#: admin/crane-options.php:592
+msgid "Inherit from shop archive"
+msgstr ""
+
+#: admin/crane-options.php:613
+msgid "Regular text"
+msgstr ""
+
+#: admin/crane-options.php:615
+msgid "Typography setting for regular text, links, list etc."
+msgstr ""
+
+#: admin/crane-options.php:641
+msgid "Heading H1"
+msgstr ""
+
+#: admin/crane-options.php:665
+msgid "Heading H2"
+msgstr ""
+
+#: admin/crane-options.php:689
+msgid "Heading H3"
+msgstr ""
+
+#: admin/crane-options.php:713
+msgid "Heading H4"
+msgstr ""
+
+#: admin/crane-options.php:737
+msgid "Heading H5"
+msgstr ""
+
+#: admin/crane-options.php:761
+msgid "Heading H6"
+msgstr ""
+
+#: admin/crane-options.php:782
+msgid "Color styles"
+msgstr ""
+
+#: admin/crane-options.php:790
+msgid "Primary color"
+msgstr ""
+
+#: admin/crane-options.php:844
+msgid "Secondary color"
+msgstr ""
+
+#: admin/crane-options.php:864 inc/taxonomy-extra-fields.php:818
+msgid "Background color"
+msgstr ""
+
+#: admin/crane-options.php:885
+msgid "Alternative background color"
+msgstr ""
+
+#: admin/crane-options.php:903
+msgid "Heading color"
+msgstr ""
+
+#: admin/crane-options.php:909
+msgid "Regular text color"
+msgstr ""
+
+#: admin/crane-options.php:918
+msgid "Link color"
+msgstr ""
+
+#: admin/crane-options.php:931
+msgid "Border color"
+msgstr ""
+
+#: admin/crane-options.php:985
+msgid "Input focus border color"
+msgstr ""
+
+#: admin/crane-options.php:1005
+msgid "Text selection color"
+msgstr ""
+
+#: admin/crane-options.php:1018 admin/crane-options.php:1174
+#: admin/crane-options.php:1655 admin/crane-options.php:1889
+#: admin/crane-options.php:2242 admin/crane-options.php:2531
+#: admin/crane-options.php:2756 admin/crane-options.php:2913 inc/meta/config.php:68
+#: inc/taxonomy-extra-fields.php:398 inc/taxonomy-extra-fields.php:936
+#: inc/taxonomy-extra-fields.php:1287
+msgid "Sidebar position"
+msgstr ""
+
+#: admin/crane-options.php:1022 admin/crane-options.php:1178
+#: admin/crane-options.php:1659 admin/crane-options.php:1891
+#: admin/crane-options.php:2244 admin/crane-options.php:2533
+#: admin/crane-options.php:2760 admin/crane-options.php:2915 inc/meta/config.php:70
+#: inc/taxonomy-extra-fields.php:314 inc/taxonomy-extra-fields.php:857
+#: inc/taxonomy-extra-fields.php:1248
+msgid "Hide sidebar"
+msgstr ""
+
+#: admin/crane-options.php:1023 admin/crane-options.php:1179
+#: admin/crane-options.php:1660 admin/crane-options.php:1892
+#: admin/crane-options.php:2245 admin/crane-options.php:2534
+#: admin/crane-options.php:2761 admin/crane-options.php:2916 inc/meta/config.php:71
+#: inc/taxonomy-extra-fields.php:315 inc/taxonomy-extra-fields.php:858
+#: inc/taxonomy-extra-fields.php:1249
+msgid "At right"
+msgstr ""
+
+#: admin/crane-options.php:1024 admin/crane-options.php:1180
+#: admin/crane-options.php:1661 admin/crane-options.php:1893
+#: admin/crane-options.php:2246 admin/crane-options.php:2535
+#: admin/crane-options.php:2762 admin/crane-options.php:2917 inc/meta/config.php:72
+#: inc/taxonomy-extra-fields.php:316 inc/taxonomy-extra-fields.php:859
+#: inc/taxonomy-extra-fields.php:1250
+msgid "At left"
+msgstr ""
+
+#: admin/crane-options.php:1029 admin/crane-options.php:1185
+#: admin/crane-options.php:1760 admin/crane-options.php:1900
+#: admin/crane-options.php:2253 admin/crane-options.php:2542
+#: admin/crane-options.php:2767 admin/crane-options.php:2924
+msgid "Sidebar content"
+msgstr ""
+
+#: admin/crane-options.php:1037 admin/crane-options.php:1193
+#: admin/crane-options.php:1768 admin/crane-options.php:1906
+#: admin/crane-options.php:2259 admin/crane-options.php:2548
+#: admin/crane-options.php:2775 admin/crane-options.php:2930 inc/meta/config.php:82
+#: inc/taxonomy-extra-fields.php:427 inc/taxonomy-extra-fields.php:962
+#: inc/taxonomy-extra-fields.php:1313
+msgid "Sidebar width, %"
+msgstr ""
+
+#: admin/crane-options.php:1046 admin/crane-options.php:1202
+#: admin/crane-options.php:1777 admin/crane-options.php:1915
+#: admin/crane-options.php:2268 admin/crane-options.php:2557
+#: admin/crane-options.php:2784 admin/crane-options.php:2939 inc/meta/config.php:89
+#: inc/taxonomy-extra-fields.php:439 inc/taxonomy-extra-fields.php:974
+#: inc/taxonomy-extra-fields.php:1325
+msgid "Page content width, %"
+msgstr ""
+
+#: admin/crane-options.php:1055 admin/crane-options.php:1211
+#: admin/crane-options.php:1666 admin/crane-options.php:1924
+#: admin/crane-options.php:2277 admin/crane-options.php:2566
+#: admin/crane-options.php:2793 admin/crane-options.php:2948
+#: inc/taxonomy-extra-fields.php:451 inc/taxonomy-extra-fields.php:986
+#: inc/taxonomy-extra-fields.php:1337
+msgid "Sticky sidebar"
+msgstr ""
+
+#: admin/crane-options.php:1062 admin/crane-options.php:1218
+#: admin/crane-options.php:1673 admin/crane-options.php:1931
+#: admin/crane-options.php:2284 admin/crane-options.php:2573
+#: admin/crane-options.php:2800 admin/crane-options.php:2955
+#: inc/taxonomy-extra-fields.php:461 inc/taxonomy-extra-fields.php:996
+#: inc/taxonomy-extra-fields.php:1347
+msgid "Sticky sidebar top offset"
+msgstr ""
+
+#: admin/crane-options.php:1074 admin/crane-options.php:1230
+#: admin/crane-options.php:1685 admin/crane-options.php:1943
+#: admin/crane-options.php:2296 admin/crane-options.php:2585
+#: admin/crane-options.php:2812 admin/crane-options.php:2967
+msgid "Content and sidebar padding on desktop"
+msgstr ""
+
+#: admin/crane-options.php:1075 admin/crane-options.php:1089
+#: admin/crane-options.php:1231 admin/crane-options.php:1245
+#: admin/crane-options.php:1686 admin/crane-options.php:1700
+#: admin/crane-options.php:1944 admin/crane-options.php:1958
+#: admin/crane-options.php:2297 admin/crane-options.php:2311
+#: admin/crane-options.php:2586 admin/crane-options.php:2600
+#: admin/crane-options.php:2813 admin/crane-options.php:2827
+#: admin/crane-options.php:2968 admin/crane-options.php:2982
+msgid "Set top/bottom space of content area and sidebar"
+msgstr ""
+
+#: admin/crane-options.php:1088 admin/crane-options.php:1244
+#: admin/crane-options.php:1699 admin/crane-options.php:1957
+#: admin/crane-options.php:2310 admin/crane-options.php:2599
+#: admin/crane-options.php:2826 admin/crane-options.php:2981
+msgid "Content and sidebar padding on mobile"
+msgstr ""
+
+#: admin/crane-options.php:1104 admin/crane-options.php:1614
+#: admin/crane-options.php:1824 admin/crane-options.php:2199
+#: admin/crane-options.php:2468 admin/crane-options.php:2717
+#: admin/crane-options.php:2879 admin/crane-options.php:3020
+#: admin/crane-options.php:3173 inc/meta/config.php:55
+msgid "Footer preset"
+msgstr ""
+
+#: admin/crane-options.php:1105 admin/crane-options.php:1615
+#: admin/crane-options.php:1825 admin/crane-options.php:2200
+#: admin/crane-options.php:2469 admin/crane-options.php:2718
+#: admin/crane-options.php:2880 admin/crane-options.php:3021
+#: admin/crane-options.php:3058
+#, php-format
+msgid "You can %1$s the default footer or add a new one on the %2$sFooters%3$s page."
+msgstr ""
+
+#: admin/crane-options.php:1112 admin/crane-options.php:1622
+#: admin/crane-options.php:1832 admin/crane-options.php:2207
+#: admin/crane-options.php:2476 admin/crane-options.php:2725
+#: admin/crane-options.php:2887 admin/crane-options.php:3028
+#: admin/crane-options.php:3065 admin/crane-options.php:3182 inc/meta/config.php:59
+msgid "Footer appearance"
+msgstr ""
+
+#: admin/crane-options.php:1121 admin/crane-options.php:1631
+#: admin/crane-options.php:1841 admin/crane-options.php:2216
+#: admin/crane-options.php:2485 admin/crane-options.php:2734
+#: admin/crane-options.php:2896 admin/crane-options.php:3037
+#: admin/crane-options.php:3073 admin/crane-options.php:3184
+msgid ""
+"Regular footer appearance is just common footer acting like usual. Fixed footer "
+"appearance is fixed to bottom footer. It acts like sticky footer with 'moving out "
+"of the content' effect. Please note that fixed footer works great on small and "
+"medium height footers. Footers that have many content info and as a result have "
+"height more than browser height will face visibility issues. Also fixed footer will "
+"became a regular footer on mobile devices for same reasons"
+msgstr ""
+
+#: admin/crane-options.php:1128 admin/crane-options.php:1142
+#: inc/helper-functions.php:213 inc/helper-functions.php:247
+#: inc/helper-functions.php:339 inc/helper-functions.php:512 inc/meta/config.php:100
+#: template-parts/archive-crane_portfolio.php:13
+msgid "Portfolio"
+msgstr ""
+
+#: admin/crane-options.php:1134
+msgid "Portfolio general settings"
+msgstr ""
+
+#: admin/crane-options.php:1141
+msgid "Portfolio name"
+msgstr ""
+
+#: admin/crane-options.php:1147
+msgid "Portfolio slug"
+msgstr ""
+
+#: admin/crane-options.php:1154
+msgid "Portfolio category slug"
+msgstr ""
+
+#: admin/crane-options.php:1161
+msgid "Portfolio tag slug"
+msgstr ""
+
+#: admin/crane-options.php:1169
+msgid "Portfolio archive settings"
+msgstr ""
+
+#: admin/crane-options.php:1263
+msgid "Portfolio style"
+msgstr ""
+
+#: admin/crane-options.php:1264
+msgid "Select portfolio style"
+msgstr ""
+
+#: admin/crane-options.php:1267 admin/crane-options.php:2019
+#: inc/taxonomy-extra-fields.php:339 inc/taxonomy-extra-fields.php:1195
+#: inc/taxonomy-extra-fields.php:1256
+msgid "Flat"
+msgstr ""
+
+#: admin/crane-options.php:1268 inc/taxonomy-extra-fields.php:1196
+msgid "Minimal"
+msgstr ""
+
+#: admin/crane-options.php:1269 inc/taxonomy-extra-fields.php:1197
+msgid "Modern"
+msgstr ""
+
+#: admin/crane-options.php:1275
+msgid "Items layout"
+msgstr ""
+
+#: admin/crane-options.php:1276
+msgid "Select portfolio layout"
+msgstr ""
+
+#: admin/crane-options.php:1279 inc/taxonomy-extra-fields.php:1183
+msgid "Grid"
+msgstr ""
+
+#: admin/crane-options.php:1280 admin/crane-options.php:1981
+#: inc/taxonomy-extra-fields.php:309 inc/taxonomy-extra-fields.php:1184
+msgid "Masonry"
+msgstr ""
+
+#: admin/crane-options.php:1286 inc/taxonomy-extra-fields.php:1404
+msgid "Layout mode"
+msgstr ""
+
+#: admin/crane-options.php:1287
+msgid "Select portfolio layout mode"
+msgstr ""
+
+#: admin/crane-options.php:1290 admin/crane-options.php:1979
+#: inc/taxonomy-extra-fields.php:307 inc/taxonomy-extra-fields.php:1189
+msgid "Standard"
+msgstr ""
+
+#: admin/crane-options.php:1291
+msgid "Fit Rows"
+msgstr ""
+
+#: admin/crane-options.php:1297 inc/taxonomy-extra-fields.php:1414
+msgid "Image proportion"
+msgstr ""
+
+#: admin/crane-options.php:1301 admin/crane-options.php:2032
+#: inc/taxonomy-extra-fields.php:367 inc/taxonomy-extra-fields.php:1231
+msgid "4:3"
+msgstr ""
+
+#: admin/crane-options.php:1302 admin/crane-options.php:2033
+#: inc/taxonomy-extra-fields.php:368 inc/taxonomy-extra-fields.php:1232
+msgid "3:2"
+msgstr ""
+
+#: admin/crane-options.php:1303 admin/crane-options.php:2034
+#: inc/taxonomy-extra-fields.php:369 inc/taxonomy-extra-fields.php:1233
+msgid "16:9"
+msgstr ""
+
+#: admin/crane-options.php:1304 admin/crane-options.php:2031
+#: inc/taxonomy-extra-fields.php:366 inc/taxonomy-extra-fields.php:1234
+msgid "1:1"
+msgstr ""
+
+#: admin/crane-options.php:1305 admin/crane-options.php:2035
+#: inc/taxonomy-extra-fields.php:370 inc/taxonomy-extra-fields.php:1235
+msgid "3:4"
+msgstr ""
+
+#: admin/crane-options.php:1306 admin/crane-options.php:2036
+#: inc/taxonomy-extra-fields.php:371 inc/taxonomy-extra-fields.php:1236
+msgid "2:3"
+msgstr ""
+
+#: admin/crane-options.php:1307 admin/crane-options.php:2037
+#: inc/taxonomy-extra-fields.php:372 inc/taxonomy-extra-fields.php:1237
+msgid "Original"
+msgstr ""
+
+#: admin/crane-options.php:1313 admin/crane-options.php:1987
+#: inc/taxonomy-extra-fields.php:542 inc/taxonomy-extra-fields.php:1434
+msgid "Basic image resolution"
+msgstr ""
+
+#: admin/crane-options.php:1320 inc/taxonomy-extra-fields.php:1444
+msgid "Hover style"
+msgstr ""
+
+#: admin/crane-options.php:1321
+msgid "Select item hover style"
+msgstr ""
+
+#: admin/crane-options.php:1324 inc/taxonomy-extra-fields.php:1202
+msgid "Direction-aware hover"
+msgstr ""
+
+#: admin/crane-options.php:1325 inc/taxonomy-extra-fields.php:1203
+msgid "Overlay with zoom and link icons on hover"
+msgstr ""
+
+#: admin/crane-options.php:1326 inc/taxonomy-extra-fields.php:1204
+msgid "Zoom image on hover"
+msgstr ""
+
+#: admin/crane-options.php:1327 admin/crane-options.php:2436
+#: inc/taxonomy-extra-fields.php:1205
+msgid "Just link"
+msgstr ""
+
+#: admin/crane-options.php:1328 inc/taxonomy-extra-fields.php:1206
+msgid "Shuffle text link"
+msgstr ""
+
+#: admin/crane-options.php:1334
+msgid "Image resolution for image in lightbox"
+msgstr ""
+
+#: admin/crane-options.php:1342
+msgid "Direction-aware hover color"
+msgstr ""
+
+#: admin/crane-options.php:1353
+msgid "Shuffle link text"
+msgstr ""
+
+#: admin/crane-options.php:1355
+msgid "View project"
+msgstr ""
+
+#: admin/crane-options.php:1360 admin/crane-options.php:2073
+#: inc/taxonomy-extra-fields.php:572 inc/taxonomy-extra-fields.php:1454
+msgid "Space between items"
+msgstr ""
+
+#: admin/crane-options.php:1361
+msgid "Space between items in grid and masonry portfolio layout."
+msgstr ""
+
+#: admin/crane-options.php:1369 admin/crane-options.php:2045
+#: admin/crane-options.php:2054 admin/crane-options.php:2617 inc/meta/config.php:108
+#: inc/taxonomy-extra-fields.php:1038
+msgid "Number of columns"
+msgstr ""
+
+#: admin/crane-options.php:1370 admin/crane-options.php:2046
+#: admin/crane-options.php:2055
+msgid "Set number of columns to show in one row"
+msgstr ""
+
+#: admin/crane-options.php:1379 admin/crane-options.php:2062
+msgid "Adaptive placement of columns"
+msgstr ""
+
+#: admin/crane-options.php:1380 admin/crane-options.php:2063
+msgid "Set resolution on which items wil be stacked 1 per row"
+msgstr ""
+
+#: admin/crane-options.php:1389
+msgid "Amount of posts"
+msgstr ""
+
+#: admin/crane-options.php:1390
+msgid "Set amount of posts to show initially (0 means unlimited)"
+msgstr ""
+
+#: admin/crane-options.php:1399
+msgid "Show portfolio item title"
+msgstr ""
+
+#: admin/crane-options.php:1405 admin/crane-options.php:2010
+#: inc/taxonomy-extra-fields.php:650
+msgid "Show categories"
+msgstr ""
+
+#: admin/crane-options.php:1411
+msgid "Show custom text from meta"
+msgstr ""
+
+#: admin/crane-options.php:1417 admin/crane-options.php:2116
+#: inc/taxonomy-extra-fields.php:670
+msgid "Show excerpt"
+msgstr ""
+
+#: admin/crane-options.php:1418 admin/crane-options.php:2117
+msgid "Disable this option if you do not want excerpt"
+msgstr ""
+
+#: admin/crane-options.php:1424 admin/crane-options.php:2124
+#: inc/taxonomy-extra-fields.php:680
+msgid "Strip html in except"
+msgstr ""
+
+#: admin/crane-options.php:1431 admin/crane-options.php:2131
+#: inc/taxonomy-extra-fields.php:690 inc/taxonomy-extra-fields.php:1552
+msgid "Excerpt height"
+msgstr ""
+
+#: admin/crane-options.php:1441 admin/crane-options.php:2154
+#: inc/taxonomy-extra-fields.php:712 inc/taxonomy-extra-fields.php:1564
+msgid "Show &quot;read more&quot; link"
+msgstr ""
+
+#: admin/crane-options.php:1446 inc/taxonomy-extra-fields.php:1574
+msgid "Portfolio tags type"
+msgstr ""
+
+#: admin/crane-options.php:1449 inc/taxonomy-extra-fields.php:1211
+msgid "No tags"
+msgstr ""
+
+#: admin/crane-options.php:1450 inc/taxonomy-extra-fields.php:1212
+msgid "Text tags"
+msgstr ""
+
+#: admin/crane-options.php:1451 inc/taxonomy-extra-fields.php:1213
+msgid "Image tags"
+msgstr ""
+
+#: admin/crane-options.php:1457 inc/taxonomy-extra-fields.php:1584
+msgid "Show filtering by category"
+msgstr ""
+
+#: admin/crane-options.php:1458
+msgid "Check this checkbox if you want to enable filtering by category"
+msgstr ""
+
+#: admin/crane-options.php:1464 inc/taxonomy-extra-fields.php:1594
+msgid "Filtering align"
+msgstr ""
+
+#: admin/crane-options.php:1467 inc/taxonomy-extra-fields.php:1218
+msgid "Left"
+msgstr ""
+
+#: admin/crane-options.php:1468 inc/taxonomy-extra-fields.php:1219
+msgid "Right"
+msgstr ""
+
+#: admin/crane-options.php:1469 inc/taxonomy-extra-fields.php:1220
+msgid "Center"
+msgstr ""
+
+#: admin/crane-options.php:1476 inc/taxonomy-extra-fields.php:1604
+msgid "Filtering style"
+msgstr ""
+
+#: admin/crane-options.php:1477
+msgid "Select style of navigation filtering"
+msgstr ""
+
+#: admin/crane-options.php:1480
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:110
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:187
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Radio.php:18 inc/meta/config.php:24
+#: inc/meta/config.php:50 inc/meta/config.php:62 inc/meta/config.php:118
+#: inc/meta/config.php:166 inc/meta/config.php:172 inc/meta/config.php:178
+#: inc/meta/config.php:184 inc/meta/config.php:190 inc/meta/config.php:196
+#: inc/meta/config.php:220 inc/meta/config.php:239 inc/meta/config.php:246
+#: inc/meta/config.php:253 inc/meta/config.php:260 inc/meta/config.php:282
+#: inc/taxonomy-extra-fields.php:322 inc/taxonomy-extra-fields.php:333
+#: inc/taxonomy-extra-fields.php:359 inc/taxonomy-extra-fields.php:365
+#: inc/taxonomy-extra-fields.php:377 inc/taxonomy-extra-fields.php:506
+#: inc/taxonomy-extra-fields.php:520 inc/taxonomy-extra-fields.php:744
+#: inc/taxonomy-extra-fields.php:758 inc/taxonomy-extra-fields.php:893
+#: inc/taxonomy-extra-fields.php:900 inc/taxonomy-extra-fields.php:904
+#: inc/taxonomy-extra-fields.php:908 inc/taxonomy-extra-fields.php:912
+#: inc/taxonomy-extra-fields.php:915 inc/taxonomy-extra-fields.php:1188
+#: inc/taxonomy-extra-fields.php:1194 inc/taxonomy-extra-fields.php:1201
+#: inc/taxonomy-extra-fields.php:1210 inc/taxonomy-extra-fields.php:1217
+#: inc/taxonomy-extra-fields.php:1225 inc/taxonomy-extra-fields.php:1230
+#: inc/taxonomy-extra-fields.php:1242 inc/taxonomy-extra-fields.php:1259
+#: inc/taxonomy-extra-fields.php:1265 inc/taxonomy-extra-fields.php:1392
+#: inc/taxonomy-extra-fields.php:1638 inc/taxonomy-extra-fields.php:1719
+msgid "Default"
+msgstr ""
+
+#: admin/crane-options.php:1481 admin/crane-options.php:1729 inc/meta/config.php:125
+#: inc/meta/config.php:228 inc/taxonomy-extra-fields.php:1226
+msgid "Custom"
+msgstr ""
+
+#: admin/crane-options.php:1488 inc/taxonomy-extra-fields.php:1614
+msgid "Filtering background color"
+msgstr ""
+
+#: admin/crane-options.php:1495 inc/taxonomy-extra-fields.php:1624
+msgid "Filtering text color"
+msgstr ""
+
+#: admin/crane-options.php:1502 admin/crane-options.php:2647
+#: admin/crane-options.php:3008 inc/taxonomy-extra-fields.php:1634
+msgid "Pagination type"
+msgstr ""
+
+#: admin/crane-options.php:1505 inc/taxonomy-extra-fields.php:1639
+msgid "No pagination"
+msgstr ""
+
+#: admin/crane-options.php:1506 inc/taxonomy-extra-fields.php:1640
+msgid "Load more button"
+msgstr ""
+
+#: admin/crane-options.php:1513
+msgid "Pagination typography"
+msgstr ""
+
+#: admin/crane-options.php:1532 inc/taxonomy-extra-fields.php:1648
+msgid "Pagination button text color"
+msgstr ""
+
+#: admin/crane-options.php:1540 inc/taxonomy-extra-fields.php:1658
+msgid "Pagination button background color"
+msgstr ""
+
+#: admin/crane-options.php:1548 inc/taxonomy-extra-fields.php:1668
+msgid "Pagination button hover & active text color"
+msgstr ""
+
+#: admin/crane-options.php:1556 inc/taxonomy-extra-fields.php:1678
+msgid "Pagination button hover & active background color"
+msgstr ""
+
+#: admin/crane-options.php:1565 inc/taxonomy-extra-fields.php:1688
+msgid "Pagination button text"
+msgstr ""
+
+#: admin/crane-options.php:1566 inc/crane-pagination.php:29
+#: inc/crane-pagination.php:32
+msgid "Show more"
+msgstr ""
+
+#: admin/crane-options.php:1571 inc/taxonomy-extra-fields.php:1698
+msgid "Order by"
+msgstr ""
+
+#: admin/crane-options.php:1574
+msgid "Date"
+msgstr ""
+
+#: admin/crane-options.php:1575 inc/taxonomy-extra-fields.php:1703
+msgid "Post id"
+msgstr ""
+
+#: admin/crane-options.php:1576 admin/crane-options.php:3153
+#: inc/taxonomy-extra-fields.php:1704
+msgid "Title"
+msgstr ""
+
+#: admin/crane-options.php:1577 inc/taxonomy-extra-fields.php:1705
+msgid "Comment count"
+msgstr ""
+
+#: admin/crane-options.php:1578 inc/taxonomy-extra-fields.php:1706
+msgid "Random"
+msgstr ""
+
+#: admin/crane-options.php:1579 inc/taxonomy-extra-fields.php:1707
+msgid "Author"
+msgstr ""
+
+#: admin/crane-options.php:1585 inc/taxonomy-extra-fields.php:1715
+msgid "Order"
+msgstr ""
+
+#: admin/crane-options.php:1588 inc/taxonomy-extra-fields.php:1720
+msgid "Asc"
+msgstr ""
+
+#: admin/crane-options.php:1589 inc/taxonomy-extra-fields.php:1721
+msgid "Desc"
+msgstr ""
+
+#: admin/crane-options.php:1596 inc/taxonomy-extra-fields.php:1729
+msgid "Enable Custom order?"
+msgstr ""
+
+#: admin/crane-options.php:1597
+msgid ""
+"If enable, widget shows custom ordered portfolio with second sorting set in \"Order "
+"by\"."
+msgstr ""
+
+#: admin/crane-options.php:1603 admin/crane-options.php:2188
+#: inc/taxonomy-extra-fields.php:755 inc/taxonomy-extra-fields.php:1739
+msgid "Open on click in"
+msgstr ""
+
+#: admin/crane-options.php:1606 admin/crane-options.php:2191
+#: inc/taxonomy-extra-fields.php:354 inc/taxonomy-extra-fields.php:1260
+msgid "Same window"
+msgstr ""
+
+#: admin/crane-options.php:1607 admin/crane-options.php:2192
+#: inc/taxonomy-extra-fields.php:355 inc/taxonomy-extra-fields.php:1261
+msgid "New window"
+msgstr ""
+
+#: admin/crane-options.php:1639
+msgid "Portfolio single post settings"
+msgstr ""
+
+#: admin/crane-options.php:1646 admin/crane-options.php:2231
+#: admin/crane-options.php:2748
+msgid "Breadcrumbs view"
+msgstr ""
+
+#: admin/crane-options.php:1648
+msgid "Home &gt; Single portfolio name"
+msgstr ""
+
+#: admin/crane-options.php:1649
+msgid "Home &gt; Portfolio first category &gt; Single portfolio name"
+msgstr ""
+
+#: admin/crane-options.php:1650
+msgid "Home &gt; Portfolio categories, separated by comma &gt; Single portfolio name"
+msgstr ""
+
+#: admin/crane-options.php:1720
+msgid "Show featured image"
+msgstr ""
+
+#: admin/crane-options.php:1724
+msgid "Featured image size"
+msgstr ""
+
+#: admin/crane-options.php:1727 inc/meta/config.php:123 inc/meta/config.php:227
+msgid "Original size"
+msgstr ""
+
+#: admin/crane-options.php:1728 inc/meta/config.php:124 inc/meta/config.php:225
+msgid "Full screen"
+msgstr ""
+
+#: admin/crane-options.php:1730 inc/meta/config.php:126 inc/meta/config.php:226
+msgid "Full width + custom height"
+msgstr ""
+
+#: admin/crane-options.php:1738
+msgid "Featured image Width"
+msgstr ""
+
+#: admin/crane-options.php:1747
+msgid "Featured image Height"
+msgstr ""
+
+#: admin/crane-options.php:1757
+msgid "Show portfolio navigation"
+msgstr ""
+
+#: admin/crane-options.php:1789 inc/meta/config.php:164
+msgid "Show portfolio title"
+msgstr ""
+
+#: admin/crane-options.php:1795 inc/meta/config.php:170
+msgid "Show border before portfolio meta data"
+msgstr ""
+
+#: admin/crane-options.php:1801 inc/meta/config.php:176
+msgid "Show portfolio tags"
+msgstr ""
+
+#: admin/crane-options.php:1807 inc/meta/config.php:182
+msgid "Show portfolio publication date"
+msgstr ""
+
+#: admin/crane-options.php:1813 inc/meta/config.php:188
+msgid "Show portfolio categories"
+msgstr ""
+
+#: admin/crane-options.php:1819 admin/crane-options.php:2167
+#: admin/crane-options.php:2410 inc/meta/config.php:194
+#: inc/taxonomy-extra-fields.php:732
+msgid "Show social share button"
+msgstr ""
+
+#: admin/crane-options.php:1848
+msgid "Blog"
+msgstr ""
+
+#: admin/crane-options.php:1854
+msgid "Blog general settings"
+msgstr ""
+
+#: admin/crane-options.php:1861
+msgid "Blog category slug"
+msgstr ""
+
+#: admin/crane-options.php:1868
+msgid "Blog tag slug"
+msgstr ""
+
+#: admin/crane-options.php:1876
+msgid "Blog archive settings"
+msgstr ""
+
+#: admin/crane-options.php:1883
+msgid "Blog archive page title"
+msgstr ""
+
+#: admin/crane-options.php:1977 inc/taxonomy-extra-fields.php:502
+#: inc/taxonomy-extra-fields.php:1388
+msgid "Layout"
+msgstr ""
+
+#: admin/crane-options.php:1980 inc/taxonomy-extra-fields.php:308
+msgid "Cell"
+msgstr ""
+
+#: admin/crane-options.php:1996 inc/taxonomy-extra-fields.php:630
+msgid "Show publication date"
+msgstr ""
+
+#: admin/crane-options.php:2003 inc/taxonomy-extra-fields.php:640
+msgid "Show author"
+msgstr ""
+
+#: admin/crane-options.php:2015 inc/taxonomy-extra-fields.php:517
+#: inc/taxonomy-extra-fields.php:1424
+msgid "Style"
+msgstr ""
+
+#: admin/crane-options.php:2016
+msgid "Select blog style"
+msgstr ""
+
+#: admin/crane-options.php:2020 inc/taxonomy-extra-fields.php:339
+#: inc/taxonomy-extra-fields.php:1256
+msgid "Corporate"
+msgstr ""
+
+#: admin/crane-options.php:2027 inc/taxonomy-extra-fields.php:532
+msgid "Top content proportion"
+msgstr ""
+
+#: admin/crane-options.php:2074
+msgid "Space between items in grid and masonry blog layout."
+msgstr ""
+
+#: admin/crane-options.php:2083 inc/taxonomy-extra-fields.php:596
+msgid "Post height on desktop"
+msgstr ""
+
+#: admin/crane-options.php:2093 inc/taxonomy-extra-fields.php:608
+msgid "Post height on mobile"
+msgstr ""
+
+#: admin/crane-options.php:2103
+msgid "Show title"
+msgstr ""
+
+#: admin/crane-options.php:2110 inc/taxonomy-extra-fields.php:660
+msgid "Show tags"
+msgstr ""
+
+#: admin/crane-options.php:2143 inc/taxonomy-extra-fields.php:702
+msgid "Item background color"
+msgstr ""
+
+#: admin/crane-options.php:2161 admin/crane-options.php:2404
+#: inc/taxonomy-extra-fields.php:722
+msgid "Show comment counter"
+msgstr ""
+
+#: admin/crane-options.php:2175 inc/taxonomy-extra-fields.php:741
+msgid "Show post meta"
+msgstr ""
+
+#: admin/crane-options.php:2179 inc/taxonomy-extra-fields.php:348
+msgid "Show author info and post date"
+msgstr ""
+
+#: admin/crane-options.php:2180 inc/taxonomy-extra-fields.php:349
+msgid "Show post date"
+msgstr ""
+
+#: admin/crane-options.php:2181 inc/taxonomy-extra-fields.php:350
+msgid "Do not show"
+msgstr ""
+
+#: admin/crane-options.php:2224
+msgid "Blog single post settings"
+msgstr ""
+
+#: admin/crane-options.php:2233
+msgid "Home &gt; Single blog name"
+msgstr ""
+
+#: admin/crane-options.php:2234
+msgid "Home &gt; First Category &gt; Single blog name"
+msgstr ""
+
+#: admin/crane-options.php:2235
+msgid "Home &gt; Categories, separated by comma &gt; Single blog name"
+msgstr ""
+
+#: admin/crane-options.php:2330 inc/meta/config.php:236
+msgid "Show post title in content?"
+msgstr ""
+
+#: admin/crane-options.php:2336 inc/meta/config.php:243
+msgid "Show meta info inside featured image block?"
+msgstr ""
+
+#: admin/crane-options.php:2342 inc/meta/config.php:115 inc/meta/config.php:217
+msgid "Show Featured Image"
+msgstr ""
+
+#: admin/crane-options.php:2355
+msgid "Featured image title typography"
+msgstr ""
+
+#: admin/crane-options.php:2379
+msgid "Featured image category typography"
+msgstr ""
+
+#: admin/crane-options.php:2397
+msgid "Featured image divider color"
+msgstr ""
+
+#: admin/crane-options.php:2417 inc/meta/config.php:250
+msgid "Show author info block"
+msgstr ""
+
+#: admin/crane-options.php:2423
+msgid "Show navigation between posts"
+msgstr ""
+
+#: admin/crane-options.php:2429 inc/meta/config.php:257
+msgid "Show related posts block"
+msgstr ""
+
+#: admin/crane-options.php:2434
+msgid "Hover type of related posts"
+msgstr ""
+
+#: admin/crane-options.php:2437
+msgid "Hover with gradient"
+msgstr ""
+
+#: admin/crane-options.php:2450
+msgid "Gradient color"
+msgstr ""
+
+#: admin/crane-options.php:2463
+msgid "Show tags block"
+msgstr ""
+
+#: admin/crane-options.php:2495
+msgid "Shop"
+msgstr ""
+
+#: admin/crane-options.php:2502
+msgid "Shop general settings"
+msgstr ""
+
+#: admin/crane-options.php:2509
+msgid "Switch shop to catalog"
+msgstr ""
+
+#: admin/crane-options.php:2515
+msgid "Enable Ajax Add to cart buttons on archive ans single product"
+msgstr ""
+
+#: admin/crane-options.php:2524
+msgid "Product archive settings"
+msgstr ""
+
+#: admin/crane-options.php:2628 inc/taxonomy-extra-fields.php:1048
+msgid "Products per page"
+msgstr ""
+
+#: admin/crane-options.php:2638 admin/crane-options.php:2997
+#: inc/taxonomy-extra-fields.php:1060
+msgid "Pagination"
+msgstr ""
+
+#: admin/crane-options.php:2640 admin/crane-options.php:2999
+#: inc/taxonomy-extra-fields.php:342
+msgid "Numeric pagination"
+msgstr ""
+
+#: admin/crane-options.php:2648 admin/crane-options.php:3009
+#: inc/taxonomy-extra-fields.php:1070
+msgid "Select type of next/prev buttons"
+msgstr ""
+
+#: admin/crane-options.php:2650 admin/crane-options.php:3011
+msgid "Arrows"
+msgstr ""
+
+#: admin/crane-options.php:2651 admin/crane-options.php:3012
+#: admin/crane-options.php:3163
+msgid "Text"
+msgstr ""
+
+#: admin/crane-options.php:2659 inc/taxonomy-extra-fields.php:1080
+msgid "Shop design"
+msgstr ""
+
+#: admin/crane-options.php:2661
+msgid "Simple"
+msgstr ""
+
+#: admin/crane-options.php:2662
+msgid "Float"
+msgstr ""
+
+#: admin/crane-options.php:2669 inc/taxonomy-extra-fields.php:1130
+msgid "Product image type"
+msgstr ""
+
+#: admin/crane-options.php:2671
+msgid "Single image"
+msgstr ""
+
+#: admin/crane-options.php:2672
+msgid "Carousel from gallery"
+msgstr ""
+
+#: admin/crane-options.php:2679 inc/taxonomy-extra-fields.php:1090
+msgid "Show product rating"
+msgstr ""
+
+#: admin/crane-options.php:2685 inc/taxonomy-extra-fields.php:1100
+msgid "Show product description"
+msgstr ""
+
+#: admin/crane-options.php:2691 inc/taxonomy-extra-fields.php:1110
+msgid "Show product categories"
+msgstr ""
+
+#: admin/crane-options.php:2697 inc/taxonomy-extra-fields.php:1120
+msgid "Show product tags"
+msgstr ""
+
+#: admin/crane-options.php:2704 inc/taxonomy-extra-fields.php:1139
+msgid "Select product attributes to show (if exist)"
+msgstr ""
+
+#: admin/crane-options.php:2711
+msgid "Show products sorting filter"
+msgstr ""
+
+#: admin/crane-options.php:2741
+msgid "Product page settings"
+msgstr ""
+
+#: admin/crane-options.php:2750
+msgid "Home &gt; Single product name"
+msgstr ""
+
+#: admin/crane-options.php:2751
+msgid "Home &gt; Shop page &gt; Product category &gt; Single product name"
+msgstr ""
+
+#: admin/crane-options.php:2842 inc/meta/config.php:279
+msgid "Show related products"
+msgstr ""
+
+#: admin/crane-options.php:2846
+msgid "Related products rows"
+msgstr ""
+
+#: admin/crane-options.php:2860
+msgid "Related products columns"
+msgstr ""
+
+#: admin/crane-options.php:2874
+msgid "Show product side navigation"
+msgstr ""
+
+#: admin/crane-options.php:2906 admin/migration/migrate__v1_3_9_1563.php:294
+msgid "Search page"
+msgstr ""
+
+#: admin/crane-options.php:3000
+msgid "With [Show more] button"
+msgstr ""
+
+#: admin/crane-options.php:3001 inc/taxonomy-extra-fields.php:344
+msgid "Infinity Scroll"
+msgstr ""
+
+#: admin/crane-options.php:3044
+msgid "Footer"
+msgstr ""
+
+#: admin/crane-options.php:3051
+msgid "Default footer"
+msgstr ""
+
+#: admin/crane-options.php:3057
+msgid "Footer default preset"
+msgstr ""
+
+#: admin/crane-options.php:3087
+msgid "Social share links"
+msgstr ""
+
+#: admin/crane-options.php:3088
+msgid ""
+"Social share links to show on click to social share button. Button can be shown at "
+"Blog archive (standard layout) page, Blog single post or Portfolio single page. "
+"Button visibility is controlled from Portfolio and Blog settings."
+msgstr ""
+
+#: admin/crane-options.php:3095
+msgid "Facebook"
+msgstr ""
+
+#: admin/crane-options.php:3101
+msgid "Twitter"
+msgstr ""
+
+#: admin/crane-options.php:3107
+msgid "Google+"
+msgstr ""
+
+#: admin/crane-options.php:3113
+msgid "Pinterest"
+msgstr ""
+
+#: admin/crane-options.php:3119
+msgid "Linkedin"
+msgstr ""
+
+#: admin/crane-options.php:3125
+msgid "404 page"
+msgstr ""
+
+#: admin/crane-options.php:3130
+msgid "404 page type"
+msgstr ""
+
+#: admin/crane-options.php:3134
+msgid ""
+"You can easily create any page with page builder or choose from existing pages and "
+"set it to be shown as 404 page. Note: The 'Default 404 page' comes bundled with "
+"theme and won't be shown at 'Pages'. Also if you choose to set your custom 404 page "
+"all settings such as menu, footer and etc will be controlled within that page."
+msgstr ""
+
+#: admin/crane-options.php:3137
+msgid "Default 404 page"
+msgstr ""
+
+#: admin/crane-options.php:3138
+msgid "Existing page with its contents "
+msgstr ""
+
+#: admin/crane-options.php:3143
+msgid "Select the page"
+msgstr ""
+
+#: admin/crane-options.php:3155
+msgid "Title for default 404 page."
+msgstr ""
+
+#: admin/crane-options.php:3165
+msgid "Text for default 404 page."
+msgstr ""
+
+#: admin/crane-options.php:3174
+#, php-format
+msgid "You can edit the default footer or add a new one on the %sFooters%s page."
+msgstr ""
+
+#: admin/crane-options.php:3199
+msgid "Custom code"
+msgstr ""
+
+#: admin/crane-options.php:3209
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/crane-options.php:3210
+msgid "Can be used to output additional CSS."
+msgstr ""
+
+#: admin/crane-options.php:3218
+msgid "Custom HTML (Head)"
+msgstr ""
+
+#: admin/crane-options.php:3219
+msgid ""
+"Can be used to output additional HTML code. For example, it can be used to insert "
+"Google Analytics. The output will be inserted into the &lt;HEAD&gt; of every "
+"webpage. Allowed HTML tags: &lt;style&gt;, &lt;meta&gt;, &lt;link&gt;, &lt;"
+"script&gt;"
+msgstr ""
+
+#: admin/crane-options.php:3227
+msgid "Custom HTML (Footer)"
+msgstr ""
+
+#: admin/crane-options.php:3228
+msgid ""
+"Can be used to output additional HTML code. The output will be inserted in the "
+"footer before the closing tag &lt;/BODY&gt;"
+msgstr ""
+
+#: admin/crane-options.php:3238
+msgid "Advanced settings"
+msgstr ""
+
+#: admin/crane-options.php:3246 inc/helper-functions.php:3565
+msgid "Maintenance Mode"
+msgstr ""
+
+#: admin/crane-options.php:3249
+msgid "Maintenance page"
+msgstr ""
+
+#: admin/crane-options.php:3250
+msgid "Show for site visitors only specific page"
+msgstr ""
+
+#: admin/crane-options.php:3261
+msgid "Send 503 status"
+msgstr ""
+
+#: admin/crane-options.php:3262
+msgid "Respond with 503 status (Service Temporarily Unavailable)"
+msgstr ""
+
+#: admin/crane-options.php:3269
+msgid "Minify theme JavaScript files"
+msgstr ""
+
+#: admin/crane-options.php:3275
+msgid "Minify theme CSS files"
+msgstr ""
+
+#: admin/crane-options.php:3284
+msgid "Custom image sizes"
+msgstr ""
+
+#: admin/crane-options.php:3291 admin/crane-options.php:3308
+#: inc/helper-functions.php:3920 inc/helper-functions.php:3925
+#: inc/helper-functions.php:3930 inc/helper-functions.php:3966
+#: inc/helper-functions.php:3989
+msgid "Privacy Preferences"
+msgstr ""
+
+#: admin/crane-options.php:3298
+msgid "Google Fonts location"
+msgstr ""
+
+#: admin/crane-options.php:3299
+msgid ""
+"When set to [Local], the Google fonts will be connected from current upload folder. "
+"Set to [CDN] to use the Google CDN service."
+msgstr ""
+
+#: admin/crane-options.php:3300
+msgid "CDN"
+msgstr ""
+
+#: admin/crane-options.php:3301
+msgid "Local"
+msgstr ""
+
+#: admin/crane-options.php:3309
+msgid "Turning on shows Privacy Preferences toolbar and other embeds privacy options"
+msgstr ""
+
+#: admin/crane-options.php:3314
+msgid "Privacy toolbar background color"
+msgstr ""
+
+#: admin/crane-options.php:3331
+msgid "Privacy toolbar text typography"
+msgstr ""
+
+#: admin/crane-options.php:3353
+msgid "Privacy placeholder background color"
+msgstr ""
+
+#: admin/crane-options.php:3370
+msgid "Privacy placeholder text typography"
+msgstr ""
+
+#: admin/crane-options.php:3393
+msgid "Embeds Privacy"
+msgstr ""
+
+#: admin/crane-options.php:3394
+msgid "Turning on prevent embeds from loading until user consent is given"
+msgstr ""
+
+#: admin/crane-options.php:3400
+msgid "Embeds Cookie Expiration"
+msgstr ""
+
+#: admin/crane-options.php:3401
+msgid "Control how long the cookie will be stored, in days"
+msgstr ""
+
+#: admin/crane-options.php:3411
+msgid "Embeds Types"
+msgstr ""
+
+#: admin/crane-options.php:3412
+msgid "Select the types of embeds which you would like to require consent"
+msgstr ""
+
+#: admin/crane-options.php:3421
+msgid "Backup and Import settings"
+msgstr ""
+
+#: admin/crane-options.php:3491
+msgid "Special characters are not supported."
+msgstr ""
+
+#: admin/crane-options.php:3517
+#, php-format
+msgid "URL slug <code>%s</code> is in use, please choose another."
+msgstr ""
+
+#: admin/importer/class-crane-import-settings.php:118
+msgid "The following plugins will be installed during demo import"
+msgstr ""
+
+#: admin/importer/importer.php:60 admin/importer/importer.php:61
+msgid "Import content"
+msgstr ""
+
+#: admin/importer/importer.php:267
+msgid ""
+"Demo content already has been imported. Importing over existing data will cause "
+"errors in the site."
+msgstr ""
+
+#: admin/importer/importer.php:287
+msgid "Demo import"
+msgstr ""
+
+#: admin/importer/importer.php:289
+msgid ""
+"If you want to import all the demo data at once, please make sure you have a clean "
+"WordPress installation. It means there shouldn&#39;t be any other content, "
+"categories, sliders or other types of content there. To reset your installation we "
+"recommend WordPress Database Reset plugin. Otherwise &quot;Import all demo "
+"content&quot; functionality will be blocked."
+msgstr ""
+
+#: admin/importer/importer.php:293 admin/importer/importer.php:325
+msgid ""
+"This content is available for import only on a new WordPress installation. "
+"Importing over existing data will cause errors in the site."
+msgstr ""
+
+#: admin/importer/importer.php:298 admin/importer/importer.php:301
+msgid "Import all demo content and pages"
+msgstr ""
+
+#: admin/importer/importer.php:310
+msgid "Custom import"
+msgstr ""
+
+#: admin/importer/importer.php:318
+msgid "Select:"
+msgstr ""
+
+#: admin/importer/importer.php:321
+msgid "All home pages"
+msgstr ""
+
+#: admin/importer/importer.php:361
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:109
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:186
+msgid "Preview"
+msgstr ""
+
+#: admin/importer/importer.php:364 inc/helper-functions.php:1031
+msgid "Select"
+msgstr ""
+
+#: admin/importer/importer.php:378
+msgid ""
+"The demo data will be downloaded from the grooni.com web server. The following data "
+"will be transferred: the address of the web site hosting, the domain name of the "
+"site."
+msgstr ""
+
+#: admin/importer/importer.php:381
+msgid "Confirm and import"
+msgstr ""
+
+#: admin/importer/importer.php:382 inc/helper-functions.php:4067
+msgid "Cancel"
+msgstr ""
+
+#: admin/importer/importer.php:390
+msgid "Importing Demo Content..."
+msgstr ""
+
+#: admin/importer/importer.php:392
+msgid ""
+"Please be patient and do not navigate away from this page while the import is in "
+"progress. This can take a while if your server is slow (inexpensive hosting).You "
+"will be notified via this page when the import is completed."
+msgstr ""
+
+#: admin/importer/importer.php:397
+msgid "Progress"
+msgstr ""
+
+#: admin/importer/importer.php:415
+msgid "Import completed successfully!"
+msgstr ""
+
+#: admin/importer/importer.php:417
+msgid "Now you can see the result at your"
+msgstr ""
+
+#: admin/importer/importer.php:417
+msgid "site"
+msgstr ""
+
+#: admin/importer/importer.php:417
+msgid "or start customize via"
+msgstr ""
+
+#: admin/importer/importer.php:417
+msgid "Theme options"
+msgstr ""
+
+#: admin/migration/DebugPage.php:47 admin/migration/DebugPage.php:48
+#: admin/migration/DebugPage.php:154
+msgid "Crane theme debug page"
+msgstr ""
+
+#: admin/migration/DebugPage.php:135
+msgid "Versions info"
+msgstr ""
+
+#: admin/migration/DebugPage.php:172
+msgid "Support"
+msgstr ""
+
+#: admin/migration/DebugPage.php:174
+#, php-format
+msgid ""
+"If you encounter migration problems or find any bugs, please create a ticket on our "
+"%s"
+msgstr ""
+
+#: admin/migration/DebugPage.php:175
+msgid "Support Portal"
+msgstr ""
+
+#: admin/migration/migrate__v1_3_9_1563.php:285
+#: admin/migration/migrate__v1_3_9_1563.php:288
+#: admin/migration/migrate__v1_3_9_1563.php:291
+msgid "single pages"
+msgstr ""
+
+#: admin/migration/migrate__v1_3_9_1563.php:295
+msgid "404 Not Found Page"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:177
+msgid "Sleep (not active)"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:179
+msgid "On the run (active)"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:180
+msgid "Switch Off"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:183
+msgid "Show"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:185
+msgid "Hide"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:188
+msgid "Switch"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:198
+msgid "Status of migrations"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:217
+msgid "Log"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:218
+msgid "Remove flag"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:222
+msgid "Set as current DB Version"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:231
+msgid "Log data for migrate version:"
+msgstr ""
+
+#: admin/migration/migrate_debug.php:236
+msgid "Available migrations"
+msgstr ""
+
+#: admin/migration/migration.php:136
+msgid "You already have the latest version. No update required."
+msgstr ""
+
+#: admin/migration/migration.php:146 admin/migration/migration.php:457
+#: admin/migration/migration.php:470 admin/migration/migration.php:535
+msgid "Crane theme data update:"
+msgstr ""
+
+#: admin/migration/migration.php:147
+msgid "Updating start in the background job."
+msgstr ""
+
+#: admin/migration/migration.php:268
+#, php-format
+msgid "Every %d minute"
+msgstr ""
+
+#: admin/migration/migration.php:411
+#, php-format
+msgid "Start migration DB version: %s"
+msgstr ""
+
+#: admin/migration/migration.php:458
+msgid "We need to update your theme database to the latest version of template."
+msgstr ""
+
+#: admin/migration/migration.php:460
+msgid "Update theme DB Data"
+msgstr ""
+
+#: admin/migration/migration.php:471
+msgid "Updating still in the background job."
+msgstr ""
+
+#: admin/migration/migration.php:520
+#, php-format
+msgid "Automatic background migration: compleate. Version: %s"
+msgstr ""
+
+#: admin/migration/migration.php:537
+#, php-format
+msgid "Update DB version %s compleate."
+msgstr ""
+
+#: admin/migration/migration.php:556
+#, php-format
+msgid "Migrate COMPLETE. New DB version: %s"
+msgstr ""
+
+#: admin/migration/migration.php:559
+msgid "ERROR. Migration complete, but DB version is not set!"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_add_image_sizes/field_crane_add_image_sizes.php:58
+#: inc/meta/config.php:128 inc/meta/config.php:230
+msgid "Width"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_add_image_sizes/field_crane_add_image_sizes.php:59
+#: inc/meta/config.php:131 inc/meta/config.php:233
+msgid "Height"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_add_image_sizes/field_crane_add_image_sizes.php:60
+msgid "Crop image"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_add_image_sizes/field_crane_add_image_sizes.php:78
+msgid "Add image size"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:72
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:115
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:210
+msgid "Error. Invalid Secret for options use"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:78
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:121
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:216
+msgid "Error. Bad request, please refresh the page"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:102
+msgid "Backup was created"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:103
+#: admin/redux-extensions/extensions/crane_backup_import/field_crane_backup_import.php:78
+msgid "Last Backup time"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:127
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:227
+msgid "Error. Invalid user capability.  Please refresh the page and try again."
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:137
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:230
+msgid "We get error, when try restore options. Options not change."
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:185
+msgid "Backup was restored"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:194
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:291
+msgid "Error. Invalid backup."
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:222
+msgid "Error. Invalid import data"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:279
+msgid "New options was imported"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/extension_crane_backup_import.php:287
+msgid "Error. New option is invalid."
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/field_crane_backup_import.php:80
+msgid "No any backups yet"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/field_crane_backup_import.php:85
+msgid "Save reserve copy"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/field_crane_backup_import.php:89
+msgid "Restore reserve copy"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/field_crane_backup_import.php:95
+msgid "Import theme options"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_backup_import/field_crane_backup_import.php:101
+msgid "Import and Save the options"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:68
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:16
+msgid "Select preset"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:81
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:17
+msgid "Close"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:94
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:56
+msgid "Please, install and activate Groovy Menu plugin"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:111
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:188
+msgid "Sticky"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_groovy_menu/field_crane_groovy_menu.php:207
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Groovy_Preset.php:139
+msgid "Please, create a preset."
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_import_log/field_crane_import_log.php:63
+msgid "Import demo data log"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_import_log/field_crane_import_log.php:65
+msgid "For debug purpose. Show log list from last demo-data import process."
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_import_log/field_crane_import_log.php:73
+msgid "Load last import log"
+msgstr ""
+
+#: admin/redux-extensions/extensions/crane_import_log/field_crane_import_log.php:79
+msgid "No any import log yet"
+msgstr ""
+
+#: admin/redux-templates/footer.tpl.php:58
+#: admin/redux-templates/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: admin/redux-templates/footer.tpl.php:62
+#: admin/redux-templates/header_stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr ""
+
+#: admin/redux-templates/footer.tpl.php:63
+#: admin/redux-templates/header_stickybar.tpl.php:27
+msgid "Reset All"
+msgstr ""
+
+#: admin/redux-templates/footer.tpl.php:68
+#: admin/redux-templates/header_stickybar.tpl.php:30
+msgid "Working..."
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:12 admin/redux-templates/header.tpl.php:55
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:35
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer mode "
+"enabled. Contact them directly to fix it."
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:58
+msgid "The \"forced_dev_mode_off\" argument has been set to true."
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:59
+msgid ""
+"Support options are not available while this argument is enabled.  You will also "
+"need to switch this argument to false before deploying your project.  If you are a "
+"user of this product and you are seeing this message, please contact the author of "
+"this theme/plugin."
+msgstr ""
+
+#: admin/redux-templates/header.tpl.php:63
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:47 inc/vendor/tgm/class-tgm-plugin-activation.php:342
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:48 inc/vendor/tgm/class-tgm-plugin-activation.php:343
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:50 inc/vendor/tgm/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:52 inc/vendor/tgm/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:53 inc/vendor/tgm/class-tgm-plugin-activation.php:348
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/tgm-init.php:56 inc/vendor/tgm/class-tgm-plugin-activation.php:351
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:62 inc/vendor/tgm/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:68 inc/vendor/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:74 inc/vendor/tgm/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:80 inc/vendor/tgm/class-tgm-plugin-activation.php:375
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:86 inc/vendor/tgm/class-tgm-plugin-activation.php:381
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:91 inc/vendor/tgm/class-tgm-plugin-activation.php:386
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:96 inc/vendor/tgm/class-tgm-plugin-activation.php:391
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:101 inc/vendor/tgm/class-tgm-plugin-activation.php:396
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/tgm-init.php:105 inc/vendor/tgm/class-tgm-plugin-activation.php:400
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:106 inc/vendor/tgm/class-tgm-plugin-activation.php:401
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:937
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2723
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3786
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:107 inc/vendor/tgm/class-tgm-plugin-activation.php:402
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3358
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/tgm-init.php:108 inc/vendor/tgm/class-tgm-plugin-activation.php:403
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3145
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgstr ""
+"#-#-#-#-#  3legacy_PHP_extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  5legacy_PHP_extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: admin/tgm/tgm-init.php:110 inc/vendor/tgm/class-tgm-plugin-activation.php:405
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/tgm-init.php:112 inc/vendor/tgm/class-tgm-plugin-activation.php:407
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: admin/tgm/tgm-init.php:114 inc/vendor/tgm/class-tgm-plugin-activation.php:409
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:116 inc/vendor/tgm/class-tgm-plugin-activation.php:411
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/tgm-init.php:117 inc/vendor/tgm/class-tgm-plugin-activation.php:412
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/tgm-init.php:139
+msgid "Installing plugins..."
+msgstr ""
+
+#: comments.php:30
+msgid "Name*"
+msgstr ""
+
+#: comments.php:32
+msgid "Email*"
+msgstr ""
+
+#: comments.php:33
+msgid "Website"
+msgstr ""
+
+#: comments.php:44
+msgid "Submit"
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:47
+msgctxt "noun"
+msgid "Comment*"
+msgstr ""
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:547
+msgid ""
+"During the import process the following plug-ins to be installed and activated:"
+msgstr ""
+
+#: functions.php:765
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:771
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: functions.php:778
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:778
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:779
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:783
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1266
+#, php-format
+msgid "This content is blocked. Please review your %s"
+msgstr ""
+
+#: functions.php:1278
+msgid ""
+"This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:1278
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#: functions.php:1361
+msgid "Dimensions"
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:62
+msgid "Add a new sidebar"
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:64
+msgid "New Sidebar Name"
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:68
+msgid "Create sidebar"
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:85 inc/class-Crane_Sidebars_Creator.php:128
+#: inc/helper-functions.php:1041
+msgid "Please, add sidebar name."
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:90
+msgid "This name reserved. Please, use a different name."
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:109 inc/class-Crane_Sidebars_Creator.php:144
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:134 inc/class-Crane_Sidebars_Creator.php:160
+msgid "Sidebar does not exist."
+msgstr ""
+
+#: inc/class-Crane_Sidebars_Creator.php:269
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Select_Sidebar.php:23
+#: inc/taxonomy-extra-fields.php:313 inc/taxonomy-extra-fields.php:856
+#: inc/taxonomy-extra-fields.php:1247
+msgid "Default sidebar"
+msgstr ""
+
+#: inc/class-Crane_Walker_Comment.php:23
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-Crane_Walker_Comment.php:82
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/crane-pagination.php:45 inc/woocommerce-functions.php:869
+msgid "Previous page"
+msgstr ""
+
+#: inc/crane-pagination.php:46 inc/woocommerce-functions.php:870
+msgid "Next page"
+msgstr ""
+
+#: inc/crane-portfolio.php:95
+msgid "All"
+msgstr ""
+
+#: inc/crane-portfolio.php:181
+msgid "Image"
+msgstr ""
+
+#: inc/crane-portfolio.php:203
+msgid "No Image Set."
+msgstr ""
+
+#: inc/crane-portfolio.php:228 inc/crane-portfolio.php:284
+msgid "Custom order"
+msgstr ""
+
+#: inc/crane-portfolio.php:286 inc/meta/config.php:205 inc/meta/config.php:269
+msgid "Input number"
+msgstr ""
+
+#: inc/helper-functions.php:93
+msgid "Home"
+msgstr ""
+
+#: inc/helper-functions.php:96
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/helper-functions.php:97 inc/helper-functions.php:459
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/helper-functions.php:98 inc/helper-functions.php:460
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/helper-functions.php:99 inc/helper-functions.php:461
+msgid "Error 404"
+msgstr ""
+
+#: inc/helper-functions.php:132 inc/helper-functions.php:439
+msgctxt "For breadcrumbs archive link. Use if blog page title is empty."
+msgid "Blog"
+msgstr ""
+
+#: inc/helper-functions.php:155
+#, php-format
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/helper-functions.php:402 inc/helper-functions.php:539
+msgid "Page"
+msgstr ""
+
+#: inc/helper-functions.php:458
+#, php-format
+msgid "Search Results for \"%s\" query"
+msgstr ""
+
+#: inc/helper-functions.php:479
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/helper-functions.php:482
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/helper-functions.php:482
+msgctxt ""
+"monthly archives date format (by PHP date() format ). Keep this line untranslated "
+"if you not sure"
+msgid "F Y"
+msgstr ""
+
+#: inc/helper-functions.php:485
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/helper-functions.php:485
+msgctxt ""
+"yearly archives date format (by PHP date() format ). Keep this line untranslated if "
+"you not sure"
+msgid "Y"
+msgstr ""
+
+#: inc/helper-functions.php:530
+msgid "Archive"
+msgstr ""
+
+#: inc/helper-functions.php:627
+msgid "Default (from Primary Menu Location)"
+msgstr ""
+
+#: inc/helper-functions.php:629
+msgid "Default (from Theme Options)"
+msgstr ""
+
+#: inc/helper-functions.php:837
+msgid "Uber Extension for WPBakery Page Builder plugin."
+msgstr ""
+
+#: inc/helper-functions.php:851
+msgid ""
+"Drag and drop page builder for WordPress. Take full control over your WordPress "
+"site, build any layout you can imagine – no programming knowledge required."
+msgstr ""
+
+#: inc/helper-functions.php:862
+msgid "Slider Revolution - Premium responsive slider"
+msgstr ""
+
+#: inc/helper-functions.php:875
+msgid ""
+"Groovy menu is a modern adjustable and flexible menu designed for creating mobile-"
+"friendly menus with a lot of options."
+msgstr ""
+
+#: inc/helper-functions.php:887
+msgid ""
+"Grooni theme addons (extensions). The plugin contains custom post type, shortcodes "
+"and custom shortcodes for Visual Composer."
+msgstr ""
+
+#: inc/helper-functions.php:897
+msgid ""
+"Display Instagram posts from your Instagram accounts, either in the same single "
+"feed or in multiple different ones."
+msgstr ""
+
+#: inc/helper-functions.php:907
+msgid "An eCommerce toolkit that helps you sell anything. Beautifully."
+msgstr ""
+
+#: inc/helper-functions.php:921
+msgid ""
+"LayerSlider is a premium multi-purpose content creation and animation platform. "
+"Easily create sliders, image galleries, slideshows with mind-blowing effects, "
+"popups, landing pages, animated page blocks, or even a full website."
+msgstr ""
+
+#: inc/helper-functions.php:934
+msgid ""
+"Includes WPBakery Page Builder premium addon elements like Icon, Info Box, "
+"Interactive Banner, Flip Box, Info List & Counter. Best of all - provides A Font "
+"Icon Manager allowing users to upload / delete custom icon fonts."
+msgstr ""
+
+#: inc/helper-functions.php:944
+msgid "Displays latest tweets from any Twitter account."
+msgstr ""
+
+#: inc/helper-functions.php:953
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr ""
+
+#: inc/helper-functions.php:965
+msgid ""
+"Convert Plus will help you build email lists, drive traffic, promote videos, offer "
+"coupons and much more!"
+msgstr ""
+
+#: inc/helper-functions.php:974
+msgid ""
+"MailChimp for WordPress by ibericode. Adds various highly effective sign-up methods "
+"to your site."
+msgstr ""
+
+#: inc/helper-functions.php:999
+msgid "Basic sidebar"
+msgstr ""
+
+#: inc/helper-functions.php:1027
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/helper-functions.php:1028
+msgid "Are you sure that you want to delete"
+msgstr ""
+
+#: inc/helper-functions.php:1029
+msgid "This will remove any widgets you have assigned to this sidebar."
+msgstr ""
+
+#: inc/helper-functions.php:1030
+msgid "Remove image?"
+msgstr ""
+
+#: inc/helper-functions.php:1032
+msgid "Unselect"
+msgstr ""
+
+#: inc/helper-functions.php:1033
+msgid "Please, enter sidebar name"
+msgstr ""
+
+#: inc/helper-functions.php:1034
+msgid "Please, choose image"
+msgstr ""
+
+#: inc/helper-functions.php:1035
+msgid "Use image"
+msgstr ""
+
+#: inc/helper-functions.php:1036
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: inc/helper-functions.php:1037
+msgid "Do you want to delete this sidebar?"
+msgstr ""
+
+#: inc/helper-functions.php:1038
+msgid "Delete sidebar"
+msgstr ""
+
+#: inc/helper-functions.php:1039
+msgid "Edit sidebar"
+msgstr ""
+
+#: inc/helper-functions.php:1040
+msgid "Enter new sidebar name:"
+msgstr ""
+
+#: inc/helper-functions.php:1042
+msgid "Insert quote with author"
+msgstr ""
+
+#: inc/helper-functions.php:1043 inc/helper-functions.php:1044
+msgid "Please select some quote text."
+msgstr ""
+
+#: inc/helper-functions.php:1045
+msgid "Quote text"
+msgstr ""
+
+#: inc/helper-functions.php:1046
+msgid "Quote author name"
+msgstr ""
+
+#: inc/helper-functions.php:1047
+msgid "Quote author URL"
+msgstr ""
+
+#: inc/helper-functions.php:1049
+msgid "out of stock"
+msgstr ""
+
+#: inc/helper-functions.php:1050
+msgid "Product added to cart"
+msgstr ""
+
+#: inc/helper-functions.php:1087
+#, php-format
+msgid "Search results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/helper-functions.php:1090
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: inc/helper-functions.php:2684
+msgid "Full Size"
+msgstr ""
+
+#: inc/helper-functions.php:2687 inc/helper-functions.php:2689
+msgid "Any"
+msgstr ""
+
+#: inc/helper-functions.php:2692
+msgid "cropped"
+msgstr ""
+
+#: inc/helper-functions.php:2701
+msgid "Full size (original)"
+msgstr ""
+
+#: inc/helper-functions.php:3102
+msgid "Update custom-style.css"
+msgstr ""
+
+#: inc/helper-functions.php:3105
+#, php-format
+msgid "Error! when update custom-style.css: %s"
+msgstr ""
+
+#: inc/helper-functions.php:3485
+msgid "edit"
+msgstr ""
+
+#: inc/helper-functions.php:3907 inc/helper-functions.php:3913
+msgid "Learn More"
+msgstr ""
+
+#: inc/helper-functions.php:3938
+#, php-format
+msgid ""
+"We use cookies from third party services to offer you a better experience. Read "
+"about how we use cookies and how you can control them by clicking %s"
+msgstr ""
+
+#: inc/helper-functions.php:3942 inc/helper-functions.php:4063
+msgid "I Agree"
+msgstr ""
+
+#: inc/helper-functions.php:3991
+msgid ""
+"When you visit any website, it may store or retrieve information through your "
+"browser, usually in the form of cookies. Since we respect your right to privacy, "
+"you can choose not to permit data collection from certain types of services. "
+"However, not allowing these services may impact your experience."
+msgstr ""
+
+#: inc/helper-functions.php:3996 inc/helper-functions.php:4000
+#: inc/helper-functions.php:4005
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/helper-functions.php:4008
+#, php-format
+msgid "You read and agreed to our %s."
+msgstr ""
+
+#: inc/helper-functions.php:4012
+msgid "REQUIRED"
+msgstr ""
+
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Media.php:38
+msgid "Change Image"
+msgstr ""
+
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Media.php:39
+msgid "Remove Image"
+msgstr ""
+
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Media.php:40
+msgid "Add Image"
+msgstr ""
+
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Radio.php:17 inc/meta/config.php:49
+#: inc/meta/config.php:117 inc/meta/config.php:165 inc/meta/config.php:171
+#: inc/meta/config.php:177 inc/meta/config.php:183 inc/meta/config.php:189
+#: inc/meta/config.php:195 inc/meta/config.php:219 inc/meta/config.php:238
+#: inc/meta/config.php:245 inc/meta/config.php:252 inc/meta/config.php:259
+#: inc/meta/config.php:281
+msgid "OFF"
+msgstr ""
+
+#: inc/meta/Fields/class-Crane_Meta_Data_Field_Radio.php:19 inc/meta/config.php:51
+#: inc/meta/config.php:119 inc/meta/config.php:167 inc/meta/config.php:173
+#: inc/meta/config.php:179 inc/meta/config.php:185 inc/meta/config.php:191
+#: inc/meta/config.php:197 inc/meta/config.php:221 inc/meta/config.php:240
+#: inc/meta/config.php:247 inc/meta/config.php:254 inc/meta/config.php:261
+#: inc/meta/config.php:283
+msgid "ON"
+msgstr ""
+
+#: inc/meta/class-Crane_Meta_Data.php:84
+msgid "Crane theme meta options"
+msgstr ""
+
+#: inc/meta/config.php:13
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: inc/meta/config.php:19
+msgid "Settings"
+msgstr ""
+
+#: inc/meta/config.php:20 inc/taxonomy-extra-fields.php:385
+#: inc/taxonomy-extra-fields.php:924 inc/taxonomy-extra-fields.php:1274
+msgid "Override global settings"
+msgstr ""
+
+#: inc/meta/config.php:22 inc/taxonomy-extra-fields.php:392
+#: inc/taxonomy-extra-fields.php:930 inc/taxonomy-extra-fields.php:1281
+msgid "Override options defined in Theme options"
+msgstr ""
+
+#: inc/meta/config.php:34
+msgid "Custom page title"
+msgstr ""
+
+#: inc/meta/config.php:46
+msgid "If empty, the title of the page will be used"
+msgstr ""
+
+#: inc/meta/config.php:47
+msgid "Show next/prev posts navigation"
+msgstr ""
+
+#: inc/meta/config.php:56
+#, php-format
+msgid "You can %1$s this footer or add a new one on the %2$sFooters%3$s page."
+msgstr ""
+
+#: inc/meta/config.php:61
+msgid "Regular"
+msgstr ""
+
+#: inc/meta/config.php:63
+msgid "Fixed"
+msgstr ""
+
+#: inc/meta/config.php:69
+msgid "Default sidebar setting"
+msgstr ""
+
+#: inc/meta/config.php:75
+msgid "Select Custom Sidebar"
+msgstr ""
+
+#: inc/meta/config.php:78
+msgid "Create a new sidebar, you can on the page"
+msgstr ""
+
+#: inc/meta/config.php:78
+msgid "Widgets"
+msgstr ""
+
+#: inc/meta/config.php:79
+msgid "Override sidebar and content width"
+msgstr ""
+
+#: inc/meta/config.php:101
+msgid "Portfolio Type"
+msgstr ""
+
+#: inc/meta/config.php:102
+msgid "Image at top"
+msgstr ""
+
+#: inc/meta/config.php:103
+msgid "Image at left"
+msgstr ""
+
+#: inc/meta/config.php:104
+msgid "Image at right"
+msgstr ""
+
+#: inc/meta/config.php:105
+msgid "Slider"
+msgstr ""
+
+#: inc/meta/config.php:106
+msgid "Grid images"
+msgstr ""
+
+#: inc/meta/config.php:114
+msgid "Images"
+msgstr ""
+
+#: inc/meta/config.php:122 inc/meta/config.php:224
+msgid "Featured Image size"
+msgstr ""
+
+#: inc/meta/config.php:137
+msgid "Show \"return to Portfolio gallery\" button"
+msgstr ""
+
+#: inc/meta/config.php:140
+msgid "URL portfolio gallery"
+msgstr ""
+
+#: inc/meta/config.php:143
+msgid "Masonry image size"
+msgstr ""
+
+#: inc/meta/config.php:162
+msgid "Custom text"
+msgstr ""
+
+#: inc/meta/config.php:200 inc/meta/config.php:264
+msgid "Custom order for displaying in archive/widget"
+msgstr ""
+
+#: inc/meta/config.php:201 inc/meta/config.php:265
+msgid ""
+"Set number for custom sorting in widgets. Zero values are not sorting. If the order "
+"is empty, then it is considered as 0."
+msgstr ""
+
+#: inc/meta/config.php:216
+msgid "Post settings"
+msgstr ""
+
+#: inc/meta/config.php:278
+msgid "Product settings"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:87 inc/taxonomy-extra-fields.php:123
+#: inc/taxonomy-extra-fields.php:162 inc/taxonomy-extra-fields.php:281
+#: inc/taxonomy-extra-fields.php:1146
+msgid "default"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:343
+msgid "Numeric pagination with Show more button"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:360 inc/taxonomy-extra-fields.php:916
+#: inc/taxonomy-extra-fields.php:1266
+msgid "On"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:361 inc/taxonomy-extra-fields.php:917
+#: inc/taxonomy-extra-fields.php:1267
+msgid "Off"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:412 inc/taxonomy-extra-fields.php:951
+#: inc/taxonomy-extra-fields.php:1302
+msgid "Sidebar"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:473 inc/taxonomy-extra-fields.php:1008
+#: inc/taxonomy-extra-fields.php:1359
+msgid "Set top/bottom space of content area and sidebar on desktop"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:488 inc/taxonomy-extra-fields.php:1023
+#: inc/taxonomy-extra-fields.php:1374
+msgid "Set top/bottom space of content area and sidebar on mobile"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:552
+msgid "Masonry columns"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:562
+msgid "Cell columns"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:584 inc/taxonomy-extra-fields.php:1478
+msgid "Items Stacking Width"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:620 inc/taxonomy-extra-fields.php:1502
+msgid "Show title?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:771 inc/taxonomy-extra-fields.php:834
+#: inc/taxonomy-extra-fields.php:1158 inc/taxonomy-extra-fields.php:1749
+msgid "Navigation menu"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:796
+msgid "grey"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:797
+msgid "green"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:798
+msgid "blue"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:799
+msgid "orange"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:800
+msgid "red"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:801
+msgid "custom"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:807
+msgid "Label Color"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:823
+msgid "Text color"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1190
+msgid "Fit rows"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1224 inc/taxonomy-extra-fields.php:1702
+msgid "Default (as in theme options)"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1466
+msgid "How many Columns?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1490
+msgid "How many posts?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1512
+msgid "Show categories?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1522
+msgid "Show custom text from meta?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1532
+msgid "Show Excerpt?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1542
+msgid "Strip html in except?"
+msgstr ""
+
+#: inc/taxonomy-extra-fields.php:1782 inc/taxonomy-extra-fields.php:1814
+msgid "Portfolio Image Tag"
+msgstr ""
+
+#: inc/template-tags.php:27
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:631
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:632
+msgid "Update Required"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:1045
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:1045
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:1051
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:1051
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:1271
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3141
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2159
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2456
+msgid "Required"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2459
+msgid "Recommended"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2476
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2479
+msgid "External Source"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2482
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2500
+msgid "Not Installed"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2504
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2506
+msgid "Active"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2512
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2515
+msgid "Requires Update"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2518
+msgid "Update recommended"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2527
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2574
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2578
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2582
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2586
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2672
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2680
+msgid "Installed version:"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2688
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2700
+msgid "Available version:"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2723
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2737
+msgid "Plugin"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2738
+msgid "Source"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2739
+msgid "Type"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2743
+msgid "Version"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2744
+msgid "Status"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2794
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2799
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2805
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2877
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2916
+msgid "Update"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2919
+msgid "Activate"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2950
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2952
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:2995
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3101
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3127
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3357
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3704
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3707
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3709
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3713
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3715
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3716
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3718
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3721
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3723
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3724
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/vendor/tgm/class-tgm-plugin-activation.php:3726
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/woocommerce-functions.php:228 inc/woocommerce-functions.php:230
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce-functions.php:236 inc/woocommerce-functions.php:238
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce-functions.php:610
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce-functions.php:612
+#, php-format
+msgctxt "%1$d = first; %2$d = last; %3$d = total"
+msgid "Showing the single result"
+msgid_plural "Showing <span class=\"count\">%1$d&ndash;%2$d</span> of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:24
+msgid "Search results:"
+msgstr ""
+
+#: template-parts/archive-crane_portfolio.php:28
+msgid "category:"
+msgstr ""
+
+#: template-parts/archive-crane_portfolio.php:31
+msgid "tag:"
+msgstr ""
+
+#: template-parts/author_info.php:56
+msgid "Visit poster&#39;s website"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: template-parts/format/standard/content-link.php:47
+#: template-parts/post_wrapper.php:49 template-parts/post_wrapper_masonry.php:64
+msgid "Read more"
+msgstr ""
+
+#: template-parts/portfolio/header.php:51
+msgid "Return to portfolio gallery"
+msgstr ""
+
+#: template-parts/portfolio/portfolio_info.php:56
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/post-meta.php:27
+#, php-format
+msgid "<span>by</span> <a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a>"
+msgstr ""
+
+#: template-parts/post-meta.php:29
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/post-meta.php:36
+#, php-format
+msgid "<span>in</span> %1$s."
+msgstr ""
+
+#: template-parts/post-meta.php:43
+#, php-format
+msgid "<span>Posted</span> <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a>"
+msgstr ""
+
+#: template-parts/post-tag-badges.php:17
+msgid "Tags"
+msgstr ""
+
+#: template-parts/related_posts.php:32
+msgid "Related posts"
+msgstr ""
+
+#: template-parts/single_meta.php:11
+#, php-format
+msgid ""
+"<span>by</span> <a href=\"%3$s\">%2$s</a> <span>in</span> %1$s<span>.</span> "
+"<span>Posted</span> <a href=\"%5$s\">%4$s</a>"
+msgstr ""
+
+#: template-parts/single_meta.php:13
+#, php-format
+msgid ""
+"<span>by</span> <a href=\"%3$s\">%2$s</a><span>.</span> <span>Posted</span> <a href="
+"\"%5$s\">%4$s</a>"
+msgstr ""

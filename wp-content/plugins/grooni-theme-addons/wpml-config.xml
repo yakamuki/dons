@@ -1,0 +1,73 @@
+<wpml-config>
+
+    <custom-types>
+        <custom-type translate="1">crane_portfolio</custom-type>
+        <custom-type translate="1">crane_footer</custom-type>
+    </custom-types>
+
+    <taxonomies>
+        <taxonomy translate="1">crane_portfolio_cats</taxonomy>
+        <taxonomy translate="1">crane_portfolio_tags</taxonomy>
+    </taxonomies>
+
+    <shortcodes>
+        <shortcode>
+            <tag>ct_vc_banner</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_blog</tag>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_images</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_portfolio</tag>
+            <attributes>
+                <attribute>show_more_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_portfolio_cat</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_progressbar</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_recent_comments</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_timeline</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_timeline_item</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>ct_vc_toggle</tag>
+            <attributes>
+                <attribute>text</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+
+</wpml-config>

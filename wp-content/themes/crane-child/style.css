@@ -1,0 +1,115 @@
+/*
+Theme Name: Crane Child
+Theme URI: http://crane.grooni.com/
+Template: crane
+Description: Multipurpose WordPress Theme
+Author: Grooni
+Author URI: http://grooni.com/
+Version: 1
+*/
+
+@media (min-width: 1024px){
+	.gm-navbar .gm-logo {
+		transform: translate(-50%, -20%);
+	}
+}
+
+.service-row{
+	border: 0px solid;
+	border-color: #b59e5c;
+	margin: 5px 0 5px 0;
+	transition: transform .2s; /* Animation */
+}
+
+
+.service-row:hover .uvc-main-heading h4 , .service-row:hover .uvc-sub-heading {
+	color:white !important;
+}
+
+.gm-inner {
+	border-bottom: 3px solid;
+	border-top: 3px solid;
+    border-image: url(barber.png) 5 0 repeat;
+}
+
+.gm-navbar-sticky-toggle .gm-inner {
+    border-bottom-width: 3px;
+}
+
+.gm-container {
+    max-width: 1600px;
+}
+
+.mega_team_case .mega_team_wrap {
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+.mega_team_case .member-image img {
+	object-fit: cover;
+	height: 500px;
+}
+
+.map{
+		width:100%;
+}	
+
+.map iframe{
+	max-width:100%;
+	width:100%;
+}
+
+.mega_team_case .member-name span {
+	background-color: #babe75 !important;
+}
+
+.ult_pricing_table{
+	border:3px solid;
+	border-color: #b59e5c;
+	border-radius:0 0 20px 20px;
+}
+
+.ult_design_2 .ult_price_body_block {
+	background: #fff !important;
+	border-bottom: 0px !important;
+	min-height:200px;
+}
+
+.ult_pricing_table .ult_pricing_heading{
+	min-height:150px;
+}
+
+
+@media (min-width: 1024px){
+
+	.book-button > a{
+		background-color: #BABE75;
+		color: #fff !important;
+		font-size: 12px  !important;
+		text-align:center;
+		height:60px;
+	}
+	
+	.book-button > a:hover{
+		background-color: #fff !important;
+		color: #BABE75 !important;
+		border: 1px solid !important;
+		border-color: #BABE75 !important;
+	}
+
+	.service-row:hover{
+		border: 0px;
+		background: #b59e5c;
+		-webkit-animation-name: none !important;
+		animation-name: none!important;
+		transition: transform .8s;
+		transform: scale(1.2) !important;  
+	}
+	.ult_pricing_table:hover{
+		transition: transform .6s; /* Animation */
+		transform: scale(1.2) !important;
+	}
+
+}
+

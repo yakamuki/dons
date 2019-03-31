@@ -1,0 +1,1810 @@
+# Copyright (C) 2017 Grooni.com
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grooni Theme Addons plugin 1.4.6\n"
+"POT-Creation-Date: 2019-03-15 16:32+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Dmitry-Ch <chapliuk@dmitry.by>\n"
+"Language-Team: Grooni <info@grooni.com>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/vendor/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: includes/vendor/update_checker\n"
+
+#: admin/class-grooni-theme-addons-admin.php:202
+#, php-format
+msgid ""
+"You need to upgrade %s there are major improvements related with "
+"Crane settings."
+msgstr ""
+
+#: admin/class-grooni-theme-addons-admin.php:202
+msgid "theme"
+msgstr ""
+
+#: admin/class-grooni-theme-addons-admin.php:208
+#, php-format
+msgid "Upgrade %s Theme"
+msgstr ""
+
+#: admin/class-grooni-theme-addons-admin.php:210
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/crane-footer.php:17
+msgid "Footers"
+msgstr ""
+
+#: includes/crane-footer.php:18
+msgid "Footer"
+msgstr ""
+
+#: includes/crane-footer.php:19 includes/crane-footer.php:20
+msgid "Add New Footer"
+msgstr ""
+
+#: includes/crane-footer.php:21
+msgid "Edit Footer"
+msgstr ""
+
+#: includes/crane-portfolio.php:34
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/crane-portfolio.php:35
+msgctxt "taxonomy singular name"
+msgid "Portfolio-Category"
+msgstr ""
+
+#: includes/crane-portfolio.php:36
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/crane-portfolio.php:37
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/crane-portfolio.php:38
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/crane-portfolio.php:39
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/crane-portfolio.php:40
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/crane-portfolio.php:41
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/crane-portfolio.php:42
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/crane-portfolio.php:43
+msgid "New Portfolio-Category Name"
+msgstr ""
+
+#: includes/crane-portfolio.php:44
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/crane-portfolio.php:62
+msgctxt "taxonomy general name"
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/crane-portfolio.php:63
+msgctxt "taxonomy singular name"
+msgid "Portfolio-Tag"
+msgstr ""
+
+#: includes/crane-portfolio.php:64
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: includes/crane-portfolio.php:65
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: includes/crane-portfolio.php:66
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: includes/crane-portfolio.php:67
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: includes/crane-portfolio.php:68
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/crane-portfolio.php:69
+msgid "New Portfolio-Tag Name"
+msgstr ""
+
+#: includes/crane-portfolio.php:70
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/crane-portfolio.php:83 includes/crane-portfolio.php:84
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:28
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:83
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:50
+msgid "Portfolio"
+msgstr ""
+
+#: includes/crane-portfolio.php:85
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/crane-portfolio.php:86
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/crane-portfolio.php:87
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/helper-functions.php:245
+msgid "Show in widget:"
+msgstr ""
+
+#: includes/helper-functions.php:248
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:487
+msgid "Use to display in the &laquo;Grooni images&raquo; widgets"
+msgstr ""
+
+#: includes/helper-functions.php:346
+msgid "Edit Shop Page"
+msgstr ""
+
+#: includes/helper-functions.php:543
+msgid "Maintenance Mode"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:334
+msgid "End import process"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:1783
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:1822
+#: includes/import/class-grooni-theme-addons-import-helper.php:1953
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) "
+"and may not be supported. Please consider updating."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2147
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2232
+msgid "Invalid author mapping"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2298
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2314
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2452
+#, php-format
+msgid "Skipping attachment: \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2497
+#, php-format
+msgid "Failed to import: \"%s\" (%s)"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2533
+#, php-format
+msgid "Imported: \"%s\" (%s)"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2538
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:2656
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3179
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3204
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3208
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3366
+#, php-format
+msgid "Failed to import term:%s of taxonomy:%s"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3414
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3421
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3430
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3435
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3634
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3731
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3745
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3751
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3757
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3813
+msgid "WP_Filesystem() load library error"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3834
+msgid "Can not download assets. URL not set by theme config."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3867
+#, php-format
+msgid ""
+"ERROR %s. Could not extract demo media package. Please contact our "
+"support staff."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3893
+#, php-format
+msgid ""
+"ERROR %s. Demo media package is not download. Please contact our "
+"support staff."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3913
+#, php-format
+msgid ""
+"Could not write demo package files into directory: %s . Check "
+"folder, we need write permission."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:3981
+#, php-format
+msgid ""
+"ERROR %s. Temporary folder is not found. Please contact our "
+"support staff."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4013
+#, php-format
+msgid ""
+"Could not write preset files into directory: %s . Check folder, we "
+"need write permission."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4119
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4134
+#, php-format
+msgid "Could not find the post parent for \"%s\" [post_id: #%d]"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4139
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4156
+#, php-format
+msgid "[post_id: #%d] Could not find the author for \"%s\""
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4161
+#, php-format
+msgid ""
+"Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4189
+#, php-format
+msgid ""
+"Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4202
+#, php-format
+msgid "[post_id: #%d] Could not update \"%s\" with mapped data"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4267
+#, php-format
+msgid "[post_id: #%d] Could not find the menu object for \"%s\""
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4272
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could "
+"not be found"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4301
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4313
+#, php-format
+msgid ""
+"No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4325
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4335
+#, php-format
+msgid ""
+"The term(%d)\"s parent_slug (%s) is not found in the remapping-"
+"array."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4351
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4372
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4385
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4405
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4409
+#, php-format
+msgid ""
+"Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4425
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4429
+#, php-format
+msgid ""
+"Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:4448
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import-helper.php:5397
+#, php-format
+msgid ""
+"ERROR %s. Could not get demo package from server. Please, try "
+"again after some minutes."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import.php:57
+msgid "Illegal ajax action"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import.php:294
+#: includes/import/class-grooni-theme-addons-import.php:386
+msgid "Done. Used time is:"
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import.php:307
+msgid "Illegal ajax action. Missing preset_name."
+msgstr ""
+
+#: includes/import/class-grooni-theme-addons-import.php:479
+msgid "Can't find Grooni_Theme_Addons_Import_Helper class"
+msgstr ""
+
+#: includes/import/class-grooni-theme-groovy-menu-helper.php:57
+#: includes/import/class-grooni-theme-groovy-menu-helper.php:158
+#, php-format
+msgid "Failed to create file: %s"
+msgstr ""
+
+#: includes/import/class-grooni-theme-groovy-menu-helper.php:75
+msgid ""
+"Wasn&apos;t able to work with Zip Archive. Missing php-zip "
+"extension."
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:48
+msgid "Import file format error."
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:97
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:136
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:159
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:195
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:257
+msgid "Imported"
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:260
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/import/class-grooni-theme-wie-helper.php:267
+msgid "No Title"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:22
+msgid "Row stretch"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:27
+#: includes/vendor/vc/extend-vc.php:145
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:329
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:366
+msgid "Default"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:28
+msgid "Stretch row"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:29
+msgid "Stretch row and content"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:30
+msgid "Stretch row and content (no paddings)"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:35
+#: includes/vendor/vc/extend-vc.php:153
+msgid "Background Color"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:41
+#: includes/vendor/vc/extend-vc.php:49
+#: includes/vendor/vc/extend-vc.php:58
+#: includes/vendor/vc/extend-vc.php:72
+#: includes/vendor/vc/extend-vc.php:86
+#: includes/vendor/vc/extend-vc.php:106
+#: includes/vendor/vc/extend-vc.php:119
+#: includes/vendor/vc/extend-vc.php:159
+#: includes/vendor/vc/extend-vc.php:167
+#: includes/vendor/vc/extend-vc.php:176
+#: includes/vendor/vc/extend-vc.php:190
+#: includes/vendor/vc/extend-vc.php:204
+#: includes/vendor/vc/extend-vc.php:224
+msgid "Design Options"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:44
+#: includes/vendor/vc/extend-vc.php:162
+msgid "Background Image"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:52
+#: includes/vendor/vc/extend-vc.php:170
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:61
+#: includes/vendor/vc/extend-vc.php:179
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:66
+#: includes/vendor/vc/extend-vc.php:81
+#: includes/vendor/vc/extend-vc.php:95
+#: includes/vendor/vc/extend-vc.php:184
+#: includes/vendor/vc/extend-vc.php:199
+#: includes/vendor/vc/extend-vc.php:213
+msgid "Theme defaults"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:67
+#: includes/vendor/vc/extend-vc.php:185
+msgid "No Repeat"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:68
+#: includes/vendor/vc/extend-vc.php:186
+msgid "Repeat"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:69
+#: includes/vendor/vc/extend-vc.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:70
+#: includes/vendor/vc/extend-vc.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:76
+#: includes/vendor/vc/extend-vc.php:194
+msgid "Background Size"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:82
+#: includes/vendor/vc/extend-vc.php:200
+msgid "Cover"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:83
+#: includes/vendor/vc/extend-vc.php:201
+msgid "Contain"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:84
+#: includes/vendor/vc/extend-vc.php:202
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:481
+msgid "Initial"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:90
+#: includes/vendor/vc/extend-vc.php:208
+msgid "Background Position"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:96
+#: includes/vendor/vc/extend-vc.php:214
+msgid "Center Left"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:97
+#: includes/vendor/vc/extend-vc.php:215
+msgid "Center Center"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:98
+#: includes/vendor/vc/extend-vc.php:216
+msgid "Center Right"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:99
+#: includes/vendor/vc/extend-vc.php:217
+msgid "Top Center"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:100
+#: includes/vendor/vc/extend-vc.php:218
+msgid "Top Left"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:101
+#: includes/vendor/vc/extend-vc.php:219
+msgid "Top Right"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:102
+#: includes/vendor/vc/extend-vc.php:220
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:103
+#: includes/vendor/vc/extend-vc.php:221
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:104
+#: includes/vendor/vc/extend-vc.php:222
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:110
+msgid "Parallax style"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:116
+msgid "No parallax"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:117
+msgid "Fixed"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:140
+msgid "Section stretch"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:146
+msgid "Stretch section"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:147
+msgid "Stretch section and content"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:148
+msgid "Stretch section and content (no paddings)"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:277
+msgid "Wrap column with a link"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:279
+msgid "If checked, the column will be wrap with a link."
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:280
+msgid "Yes"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:283
+msgid "Link type"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:288
+#: includes/vendor/vc/extend-vc.php:295
+msgid "Custom URL"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:289
+msgid "Select from existing pages"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:301
+msgid "Page title of existing page"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:303
+msgid "Start typing a page title"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:312
+msgid "Open link in"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:317
+msgid "Same page"
+msgstr ""
+
+#: includes/vendor/vc/extend-vc.php:318
+msgid "New page"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/_widget.php:48
+msgid "Crane"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/_widget.php:379
+msgid "Full Size"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/_widget.php:382
+#: includes/vendor/vc/vc-shortcodes/_widget.php:384
+msgid "Any"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/_widget.php:387
+msgid "cropped"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/_widget.php:396
+msgid "Full size (original)"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:27
+msgid "Banner"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:30
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:22
+msgid "Grooni banner widget"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:46
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:435
+#: includes/vendor/vc/vc-shortcodes/config/images.php:46
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:600
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:46
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:47
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:49
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:46
+#: includes/vendor/vc/vc-shortcodes/config/recent_posts.php:46
+#: includes/vendor/vc/vc-shortcodes/config/timeline.php:47
+#: includes/vendor/vc/vc-shortcodes/config/timeline.php:49
+#: includes/vendor/vc/vc-shortcodes/config/timeline_item.php:47
+#: includes/vendor/vc/vc-shortcodes/config/timeline_item.php:49
+msgid "Title"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:56
+#: includes/vendor/vc/vc-shortcodes/config/images.php:128
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:134
+msgid "Action on click"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:60
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:106
+msgid "Without action"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:61
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:108
+msgid "Go to the URL"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:70
+msgid "Link"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/banner.php:85
+msgid "Image"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:27
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:81
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:48
+msgid "Blog"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:30
+msgid "Blog widget"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:60
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:65
+msgid "Layout"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:61
+msgid "Select blog layout"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:64
+msgid "Cell"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:65
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:70
+msgid "Masonry"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:66
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:82
+msgid "Standard"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:74
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:109
+msgid "Style"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:78
+msgid "Corporate"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:79
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:113
+msgid "Flat"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:90
+msgid "Top content proportion"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:94
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:98
+msgid "1:1"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:95
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:95
+msgid "4:3"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:96
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:96
+msgid "3:2"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:97
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:97
+msgid "16:9"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:98
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:99
+msgid "3:4"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:99
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:100
+msgid "2:3"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:100
+#: includes/vendor/vc/vc-shortcodes/config/images.php:106
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:101
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:116
+msgid "Original"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:112
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:122
+msgid "Basic image resolution"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:121
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:231
+msgid "Show title"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:133
+msgid "Show publication date"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:145
+msgid "Show author"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:157
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:239
+msgid "Show categories"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:169
+msgid "Show Tags"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:177
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:256
+msgid "Show Excerpt?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:178
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:257
+msgid "Disable this option if you do not want excerpt"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:190
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:265
+msgid "Strip html in except?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:202
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:277
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:66
+msgid "Excerpt height"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:217
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:292
+msgid "Show &quot;read more&quot; link"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:225
+msgid "Item background color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:238
+msgid "Show comments link icon?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:251
+msgid "Show social share button"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:264
+msgid "Show post meta"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:268
+msgid "Show author info and post date"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:269
+msgid "Show post date"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:270
+msgid "Do not show"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:281
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:184
+msgid "Space between items"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:282
+msgid "Space between items in grid and masonry blog layout"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:297
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:313
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:195
+msgid "How many Columns?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:298
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:314
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:196
+msgid "How many columns to show in one row?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:329
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:207
+msgid "Items Stacking Width"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:330
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:208
+msgid "Set Resolution on which items wil be stacked 1 per row"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:345
+msgid "Post height on desktop"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:360
+msgid "Post height on mobile"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:375
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:219
+msgid "How many posts"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:376
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:220
+msgid "How many Posts would you like to show? (0 means unlimited)"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:387
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:548
+msgid "Select specific Authors"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:388
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:398
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:408
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:549
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:560
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:571
+msgid "If left blank all will be shown"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:397
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:559
+msgid "Select specific Categories"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:407
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:570
+msgid "Select specific Tags"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:417
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:581
+msgid "Order"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:421
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:585
+msgid "Asc"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:422
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:586
+msgid "Desc"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:429
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:594
+msgid "Order by"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:433
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:598
+msgid "Date"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:434
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:599
+msgid "Post ID"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:436
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:601
+msgid "Comment count"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:437
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:602
+msgid "Random"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:438
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:603
+msgid "Author"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:445
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:611
+msgid "Enable Custom order?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:446
+msgid ""
+"If enable, widget shows custom ordered posts with second sorting "
+"set in \"Order by\"."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:454
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:621
+msgid "Open on click in"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:458
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:626
+msgid "New window"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/blog.php:459
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:625
+msgid "Same window"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:27
+#: includes/vendor/vc/vc-shortcodes/config/images.php:49
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:52
+msgid "Images"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:30
+msgid "Grooni images widget"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:55
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:70
+msgid "How many rows to show? (min 1, max 6)"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:72
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:82
+msgid "How many images in row? (min 1, max 4)"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:87
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:94
+msgid "Images style"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:91
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:98
+msgid "Classic"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:99
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:103
+msgid "Image size"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:103
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:107
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:104
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:110
+msgid "Medium"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:105
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:113
+msgid "Large"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:114
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:121
+msgid "Show from:"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:118
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:125
+msgid "Show images from media library"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:119
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:127
+msgid "Show featured images of blogs"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:120
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:129
+msgid "Show featured image from Single portfolio"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:132
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:138
+msgid "Open in lightbox"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:133
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:140
+msgid "Open attachment page"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/images.php:134
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:142
+msgid "Open post"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:31
+msgid "Widget for portfolio"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:66
+msgid "Select portfolio layout"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:69
+msgid "Grid"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:78
+msgid "Layout mode"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:79
+msgid "Select portfolio layout mode"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:83
+msgid "Fit rows"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:91
+msgid "Image proportion"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:114
+msgid "Minimal"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:115
+msgid "Modern"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:131
+msgid "Hover style"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:132
+msgid "Select item hover style"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:135
+msgid "Direction-aware hover"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:136
+msgid "Overlay with zoom and link icons on hover"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:137
+msgid "Zoom image on hover"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:138
+msgid "Just link"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:139
+msgid "Shuffle text link"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:147
+msgid "Image resolution for image in lightbox"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:160
+msgid "Direction-aware hover color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:172
+msgid "Shuffle link text"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:180
+msgid "View project"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:185
+msgid "Space between items in grid and masonry portfolio layout."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:247
+msgid "Show custom text from meta?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:300
+msgid "Portfolio tags type"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:306
+msgid "No tags"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:307
+msgid "Text tags"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:308
+msgid "Image tags"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:314
+msgid "Show filtering by category"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:315
+msgid ""
+"Check this checkbox if you want to enable filtering by category."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:320
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:338
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:357
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:374
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:386
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:398
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:555
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:566
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:577
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:590
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:607
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:617
+msgid "Filtering and sorting"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:324
+msgid "Filtering style"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:325
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:362
+msgid "Select style of navigation filtering"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:330
+msgid "Custom"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:343
+msgid "Filtering align"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:347
+msgid "Left"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:348
+msgid "Right"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:349
+msgid "Center"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:361
+msgid "Filtering width"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:367
+msgid "100% width of container"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:378
+msgid "Filtering background color    "
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:390
+msgid "Filtering text color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:402
+msgid "Pagination type"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:406
+msgid "No pagination"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:407
+msgid "Load More button"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:411
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:427
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:440
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:456
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:472
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:492
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:505
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:518
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:531
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:544
+msgid "Pagination"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:416
+msgid "Pagination button text"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:417
+msgid "If left blank \"show more\" text will be shown"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:419
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:426
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-blog.php:392
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio.php:604
+msgid "Show more"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:431
+msgid "Use custom font family and style?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:448
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:119
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:162
+msgid "Select font family."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:449
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:120
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:163
+msgid "Select font styling."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:465
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:137
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:180
+msgid "Enter font size."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:476
+msgid "Pagination Text Transform"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:480
+msgid "None"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:482
+msgid "Inherit"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:483
+msgid "Lowercase"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:484
+msgid "Uppercase"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:485
+msgid "Capitalize"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:496
+msgid "Pagination button text color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:509
+msgid "Pagination button background color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:522
+msgid "Pagination button hover & active text color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:535
+msgid "Pagination button hover & active background color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio.php:612
+msgid ""
+"If enable, widget shows custom ordered portfolio with second "
+"sorting set in \"Order by\"."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:27
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:49
+msgid "Portfolio categories"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:30
+msgid "Grooni portfolio categories widget"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:55
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:56
+msgid "Display as dropdown"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:63
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:60
+msgid "Show post counts"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/portfolio_category.php:71
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:64
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:27
+msgid "Progressbar"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:30
+msgid "Widget for progress bar"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:57
+msgid "Value (in %)"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:59
+msgid "58"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:67
+msgid "Tooltip"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:70
+msgid "0"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:77
+msgid "Tooltip color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:88
+msgid "Progress bar color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:98
+msgid "Progress bar base color"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:106
+msgid "Use custom font family and style for Title?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:111
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:127
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:145
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:154
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:170
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:188
+msgid "Typography"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:138
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:181
+msgid "Select font color."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/progressbar.php:149
+msgid "Use custom font family and style for Value?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:27
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:49
+msgid "Recent comments"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:30
+msgid "Grooni recent comments widget"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:55
+msgid "Number of comments to show"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:77
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:78
+msgid "Show comments from"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:82
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:49
+msgid "Pages"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:84
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:51
+msgid "Woocommerce product"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_comments.php:85
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:52
+msgid "Any post types"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_posts.php:27
+#: includes/vendor/vc/vc-shortcodes/config/recent_posts.php:49
+msgid "Recent posts"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_posts.php:30
+msgid "Grooni recent posts widget"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_posts.php:55
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/recent_posts.php:66
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:63
+msgid "Display post date?"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/timeline.php:27
+msgid "Timeline"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/timeline.php:30
+msgid "Widget for timeline"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/timeline_item.php:27
+msgid "imeline item"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/timeline_item.php:30
+msgid "Widget for timeline item"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/timeline_item.php:57
+#: includes/vendor/vc/vc-shortcodes/config/timeline_item.php:59
+#: includes/vendor/vc/vc-shortcodes/config/toggle.php:47
+#: includes/vendor/vc/vc-shortcodes/config/toggle.php:49
+msgid "Text"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/toggle.php:27
+msgid "Toggle"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/config/toggle.php:30
+msgid "Widget for toggle"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-blog.php:71
+msgid "No blog single posts found. Please add at least one."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-blog.php:326
+msgid "Sorry, no blog posts matched your criteria."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-images.php:271
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:425
+msgid "Please add images from media or featured image from posts."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio.php:88
+msgid "No portfolio single posts found. Please add at least one."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio.php:316
+msgid "Sorry, no portfolio matched your criteria."
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio.php:477
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio.php:483
+msgid "All"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio.php:691
+msgid "Read more"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-portfolio_category.php:92
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:103
+msgid "Select Portfolio Category"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-recent_comments.php:108
+#, php-format
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: includes/vendor/vc/vc-shortcodes/vc-shortcode-recent_posts.php:109
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:119
+msgid "Post:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:24
+msgid "Simple banner widget"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:94
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:49
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:57
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:47
+msgid "Title:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:101
+msgid "Action on click:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:112
+msgid "Link:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:119
+msgid "Image:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_Banner.php:124
+msgid "Upload Image"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:22
+msgid "Grooni portfolio categories"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_PortfolioCategory.php:25
+msgid "It shows portfolio categories"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:22
+msgid "Grooni recent comments"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:25
+msgid "It shows the most recent Comments"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:42
+msgid "Recent Comments"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:63
+msgid "Number of comments to show:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:70
+msgid "Excerpt height:"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentComments.php:144
+#, php-format
+msgctxt "widgets"
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:24
+msgid "Grooni images"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:27
+msgid "It shows the last images of the blogs and media library"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:63
+msgid "Widget title"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentImages.php:484
+msgid "Show in widget"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:22
+msgid "Grooni recent posts"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:25
+msgid "It shows the most recent Posts"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:42
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/wp-widgets/class-Grooni_Widget_RecentPosts.php:54
+msgid "Number of posts to show:"
+msgstr ""
